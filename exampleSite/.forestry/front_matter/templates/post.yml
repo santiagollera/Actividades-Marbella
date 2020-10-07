@@ -14,10 +14,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - type: text
   name: type
   label: type
