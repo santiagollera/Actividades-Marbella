@@ -5,18 +5,18 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-name = "Actividades"
-parent = "Homepage"
+name = "Acuáticas"
+parent = "Actividades"
 url = "homepage/home-1"
 weight = 1
 [[menu.main]]
-name = "Más popular"
-parent = "Homepage"
+name = "Terrestres"
+parent = "Actividades"
 url = "homepage/home-2"
 weight = 2
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Actividades"
 weight = 1
 [[menu.main]]
 name = "Contacto"
