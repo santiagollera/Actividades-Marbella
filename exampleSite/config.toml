@@ -5,12 +5,16 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Actividades Marbella"
 [[menu.main]]
+name = "Actividades"
+has children = true
+url = "homepage/home-1"
+[[menu.main]]
 name = "Terrestres"
-parent = "Homepage"
+parent = "Actividades"
 url = "homepage/home-1"
 [[menu.main]]
 name = "Acuáticas"
-parent = "Homepage"
+parent = "Actividades"
 url = "homepage/home-2"
 [[menu.main]]
 name = "Acerca de"
