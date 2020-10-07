@@ -2,7 +2,7 @@
 title: Contacto
 date: 2019-05-14T14:46:10.000+06:00
 description: Contacto ActividadesMarbella.com
-image: images/contact.jpg
+image: images/contact2.jpg
 
 ---
 Estaremos encantados de responderle en menos de 30 min :)
