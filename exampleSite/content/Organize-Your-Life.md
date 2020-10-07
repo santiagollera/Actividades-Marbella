@@ -1,5 +1,5 @@
 ---
-title: Buggies Tour Marbella
+title: Ruta en Buggy
 date: '2019-05-14T14:46:10.000+06:00'
 description: Buggie Tour por Estepona Marbella, ruta por los montes y arroyos, turismo
   de aventura
