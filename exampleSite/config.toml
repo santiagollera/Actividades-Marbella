@@ -45,9 +45,6 @@ web = "www.actividadesmarbella.com"
 [params.cookies]
 enable = true
 expire_days = 2
-[params.instafeed]
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
-enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -63,16 +60,8 @@ link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/headroom/headroom.js"
 [[params.plugins.js]]
-link = "plugins/instafeed/instafeed.min.js"
-[[params.plugins.js]]
 link = "plugins/masonry/masonry.js"
 [[params.plugins.js]]
 link = "plugins/reading-time/readingTime.min.js"
 [[params.plugins.js]]
 link = "plugins/smooth-scroll/smooth-scroll.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
