@@ -1,13 +1,13 @@
 baseurl = "https://actividadesmarbella.netlyfy.app"
-languageCode = "es-es"
+languageCode = "es-ES"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Actividades Marbella"
 [[menu.main]]
+has-children = true
 name = "Actividades"
 url = "homepage/home-1"
-has-children=true
 [[menu.main]]
 name = "Terrestres"
 parent = "Actividades"
