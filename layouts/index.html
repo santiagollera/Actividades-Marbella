@@ -13,7 +13,7 @@
             <div class="card-content">
               <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
               <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+              <a class="btn btn-outline-light" href="{{.Permalink}}">Leer más</a>
             </div>
           </div>
         </article>
@@ -70,7 +70,7 @@
           <p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
           <p>{{.Summary}}</p>
-          <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
+          <a href="{{.Permalink}}" class="btn btn-transparent">Leer más</a>
         </article>
       </div>
       {{ end }}
