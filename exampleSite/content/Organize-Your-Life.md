@@ -3,7 +3,7 @@ title: Buggies Tour Marbella
 date: 2019-05-14T14:46:10.000+06:00
 description: 'Buggie Tour Estepona Marbella '
 type: featured
-image: "/images/buggie-marbella.jpg"
+image: "/images/buggie-tour-marbella.jpg"
 categories:
 - Valuable Idea
 tags:
