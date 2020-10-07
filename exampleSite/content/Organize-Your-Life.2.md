@@ -1,13 +1,15 @@
 ---
-title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: Motos de agua
+date: '2019-05-14T14:46:10.000+06:00'
+description: alquiler motos de agua y tours
 type: featured
-image: "/images/featured-post/post-3.jpg"
+image: "/images/motos-de-agua.jpg"
 categories:
-- Fashion
+- Alquiler
 tags:
-- Fashion
+- alquiler
+- tours
+- motos de agua
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
