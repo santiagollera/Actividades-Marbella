@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 author_image = "images/banner-img.png"
 bio = "Las mejores actividades turísticas en Marbella y alrededores. Actividades acuáticas, tours de ciudad y montañas"
-contact_form_action = "#"
+contact_form_action = "mailto:santillera@gmail.com"
 copyright = "Copyright &copy; 2020 ActividadesMarbella.com "
 description = "actividades marbella tours, rutas y excursiones en Marbella, Málaga y alrededores"
 email = "actividades.marbella@gmail.com"
@@ -40,7 +40,7 @@ logo = "images/logo-peque2.png"
 mobile = "+34 663010971"
 preloader = true
 search = false
-social = []
+social = ["instagram"]
 web = "www.actividadesmarbella.com"
 [params.cookies]
 enable = true
