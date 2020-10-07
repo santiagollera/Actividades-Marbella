@@ -1,6 +1,6 @@
 ---
 title: Contacto
-date: 2019-05-14T10:46:10+02:00
+date: 
 description: Contacto ActividadesMarbella.com
 image: images/contact2.jpg
 
