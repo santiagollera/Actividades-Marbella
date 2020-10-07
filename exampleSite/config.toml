@@ -1,31 +1,30 @@
 baseurl = "https://actividadesmarbella.netlyfy.app"
-languageCode = "en-us"
+languageCode = "es-es"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
-[[menu.main]]
-name = "Acuáticas"
-parent = "Actividades"
-url = "homepage/home-1"
-weight = 1
-[[menu.main]]
-name = "Terrestres"
-parent = "Actividades"
-url = "homepage/home-2"
-weight = 2
+title = "Actividades Marbella"
 [[menu.main]]
 hasChildren = true
-name = "Actividades"
+name = "Homepage"
+url = ""
 weight = 1
 [[menu.main]]
-name = "Contacto"
-url = "contact"
-weight = 3
+name = "Homepage 1"
+parent = "Homepage"
+url = "homepage/home-1"
 [[menu.main]]
-name = "Acerca de"
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2"
+[[menu.main]]
+name = "About"
 url = "about"
 weight = 2
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
