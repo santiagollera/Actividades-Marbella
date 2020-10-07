@@ -7,7 +7,7 @@ title = "Actividades Marbella"
 [[menu.main]]
 hasChildren = true
 name = "Actividades"
-url = ""
+url = "https://actividadesmarbella.netlify.app/"
 weight = 1
 [[menu.main]]
 name = "Terrestres"
@@ -28,7 +28,6 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-web = "www.actividadesmarbella.com"
 author_image = "images/banner-img.png"
 bio = "Las mejores actividades turísticas en Marbella y alrededores. Actividades acuáticas, tours de ciudad y montañas"
 contact_form_action = "#"
@@ -42,6 +41,7 @@ logo = "images/logo-peque.png"
 mobile = "+90 000 333 22"
 preloader = true
 search = true
+web = "www.actividadesmarbella.com"
 [params.cookies]
 enable = true
 expire_days = 2
