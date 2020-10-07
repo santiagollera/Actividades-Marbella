@@ -1,5 +1,5 @@
 ---
-title: Bicicleta
+title: Ruta en Bicicleta
 date: '2019-05-14T14:46:10.000+06:00'
 description: Ruta en bicicleta, actividades tours en Marbella
 type: featured
