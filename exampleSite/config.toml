@@ -1,4 +1,4 @@
-baseurl = "https://actividadesmarbella.netlyfy.com"
+baseurl = "https://actividadesmarbella.netlyfy.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
