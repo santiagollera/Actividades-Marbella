@@ -27,7 +27,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author_image = "images/motos-de-agua-actividades-marbella.jpeg"
+author_image = "images/motos-de-agua-actividades-marbella.jpg"
 bio = "Las mejores actividades turísticas en Marbella y alrededores. Actividades acuáticas, tours de ciudad y montañas"
 contact_form_action = "mailto:santillera@gmail.com"
 copyright = "Copyright &copy; 2020 ActividadesMarbella.com "
