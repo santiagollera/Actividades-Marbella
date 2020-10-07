@@ -5,11 +5,6 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Actividades Marbella"
 [[menu.main]]
-hasChildren = true
-name = "Actividades"
-url = "https://actividadesmarbella.netlify.app/"
-weight = 1
-[[menu.main]]
 name = "Terrestres"
 parent = "Homepage"
 url = "homepage/home-1"
