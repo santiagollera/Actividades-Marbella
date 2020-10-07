@@ -6,13 +6,9 @@
           <a href="{{site.BaseURL}}"><img src="{{site.Params.logo | absURL }}" alt="{{site.Title}}" class="img-fluid"></a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Address</h6>
-          <ul class="list-unstyled">
-            <li class="font-secondary text-dark">{{site.Params.address | markdownify }}</li>
-          </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Contact Info</h6>
+          <h6>Contacto</h6>
           <ul class="list-unstyled">
             <li class="font-secondary text-dark">Tel : {{ site.Params.mobile | markdownify }}</li>
             <li class="font-secondary text-dark">Email : {{ site.Params.email | markdownify }}</li>
@@ -67,7 +63,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-light ml-2">I Accept</span>
+	Este sitio utiliza cookies. Al continuar navegando se aceptan de forma automática <span id="js-cookie-button" class="btn btn-sm btn-outline-light ml-2">I Accept</span>
 </div>
 <script>
 	(function ($) {
