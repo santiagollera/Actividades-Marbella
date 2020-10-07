@@ -15,12 +15,6 @@
           </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Follow</h6>
-          <ul class="list-inline d-inline-block">
-            {{ range site.Params.social }}
-            <li class="list-inline-item"><a href="{{ .URL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
-          </ul>
         </div>
       </div>
     </div>
@@ -63,7 +57,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	Este sitio utiliza cookies. Al continuar navegando se aceptan de forma automática <span id="js-cookie-button" class="btn btn-sm btn-outline-light ml-2">I Accept</span>
+	Este sitio utiliza cookies. Al continuar navegando se aceptan de forma automática <span id="js-cookie-button" class="btn btn-sm btn-outline-light ml-2">Acepto</span>
 </div>
 <script>
 	(function ($) {
