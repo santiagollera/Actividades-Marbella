@@ -52,49 +52,7 @@
     });
   }, 500);
 
-
-  // instafeed
-  if (($('#instafeed').length) !== 0) {
-    var accessToken = $('#instafeed').attr('data-accessToken');
-    var userFeed = new Instafeed({
-      get: 'user',
-      resolution: 'low_resolution',
-      accessToken: accessToken,
-      template: '<div class="instagram-post"><a href="{{link}}" target="_blank"><img class="img-fluid w-100" src="{{image}}" alt="instagram-image"></a></div>'
-    });
-    userFeed.run();
   }
-
-  setTimeout(function () {
-    $('.instagram-slider').slick({
-      dots: false,
-      speed: 300,
-      autoplay: true,
-      arrows: false,
-      slidesToShow: 6,
-      slidesToScroll: 1,
-      responsive: [{
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 4
-          }
-        },
-        {
-          breakpoint: 600,
-          settings: {
-            slidesToShow: 3
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 2
-          }
-        }
-      ]
-    });
-  }, 1500);
-
   // article reading time
   $('article').each(function () {
 
