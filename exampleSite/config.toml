@@ -5,26 +5,27 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
-[[menu.main]]
-name = "Homepage 1"
+name = "Actividades"
 parent = "Homepage"
 url = "homepage/home-1"
+weight = 1
 [[menu.main]]
-name = "Homepage 2"
+name = "Más popular"
 parent = "Homepage"
 url = "homepage/home-2"
-[[menu.main]]
-name = "About"
-url = "about"
 weight = 2
 [[menu.main]]
-name = "Contact"
+hasChildren = true
+name = "Homepage"
+weight = 1
+[[menu.main]]
+name = "Contacto"
 url = "contact"
 weight = 3
+[[menu.main]]
+name = "Acerca de"
+url = "about"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
