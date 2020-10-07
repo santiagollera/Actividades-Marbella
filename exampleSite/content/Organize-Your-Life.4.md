@@ -1,9 +1,9 @@
 ---
-title: Buggies Tour Marbella
+title: Free Tour Marbella
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/buggie-marbella.jpg"
+image: "/images/free-walking-tour-marbella.jpg"
 categories:
 - Nature
 tags:
