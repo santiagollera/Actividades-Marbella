@@ -6,40 +6,39 @@ theme = "parsa-hugo"
 title = "Actividades Marbella"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Actividades"
 url = ""
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
+name = "Terrestres"
 parent = "Homepage"
 url = "homepage/home-1"
 [[menu.main]]
-name = "Homepage 2"
+name = "Acuáticas"
 parent = "Homepage"
 url = "homepage/home-2"
 [[menu.main]]
-name = "About"
+name = "Acerca de"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
+web = "www.actividadesmarbella.com"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Las mejores actividades turísticas en Marbella y alrededores. Actividades acuáticas, tours de ciudad y montañas"
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
-email = "exmaple@ymail.com"
+copyright = "Copyright &copy; 2020 ActividadesMarbella.com "
+description = "actividades marbella tours, rutas y excursiones en Marbella, Málaga y alrededores"
+email = "actividades.marbella@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/logo-peque.png"
 mobile = "+90 000 333 22"
 preloader = true
 search = true
