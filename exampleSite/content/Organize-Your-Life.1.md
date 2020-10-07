@@ -5,7 +5,7 @@ description: Segway Tour Marbella, actividades al aire libre, rutas por la ciuda
 type: featured
 image: "/images/segway-tour-marbella.jpg"
 categories:
-- Tours
+- Rutas
 tags:
 - marbella
 - segway
