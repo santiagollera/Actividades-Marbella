@@ -1,14 +1,18 @@
 ---
-title: Free Tour Marbella
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: Tour a pie por centro histórico de Marbella
+date: '2019-05-14T14:46:10.000+06:00'
+description: 'Actividad de ruta a pie por Marbella centro histórico '
 type: featured
 image: "/images/free-walking-tour-marbella.jpg"
 categories:
-- Nature
+- Rutas
 tags:
-- Fashion
-- Nature
+- Tour
+- ruta
+- a pie
+- walking
+- marbella
+- actividades
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
