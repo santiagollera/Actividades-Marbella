@@ -33,9 +33,10 @@ google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/logo-peque.png"
-mobile = "+90 000 333 22"
-preloader = true
-search = true
+mobile = "+34 663010971"
+preloader = false
+search = false
+social = []
 web = "www.actividadesmarbella.com"
 [params.cookies]
 enable = true
@@ -71,15 +72,3 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-[[params.social]]
-icon = "ti-facebook"
-url = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-url = "#"
-[[params.social]]
-icon = "ti-linkedin"
-url = "#"
-[[params.social]]
-icon = "ti-github"
-url = "#"
