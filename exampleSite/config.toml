@@ -6,8 +6,8 @@ theme = "parsa-hugo"
 title = "Actividades Marbella"
 [[menu.main]]
 name = "Actividades"
-has children = true
 url = "homepage/home-1"
+has-children=true
 [[menu.main]]
 name = "Terrestres"
 parent = "Actividades"
