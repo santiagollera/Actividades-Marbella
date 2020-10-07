@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 author_image = "images/motos-de-agua-actividades-marbella.jpg"
 bio = "Las mejores actividades turísticas en Marbella y alrededores. Actividades acuáticas, tours de ciudad y montañas"
-contact_form_action = "https://api.getform.io/v1/forms/739e184e-f06d-41f1-8c86-e2587793b22d?token=6sjiLkWWk2kyVI1jG7Qc6RbrOS91qIItDoe0OOUAMWQ8H1i4p1M1yv8QkDDd"
+contact_form_action = "\"https://getform.io/f/739e184e-f06d-41f1-8c86-e2587793b22d\""
 copyright = "Copyright &copy; 2020 ActividadesMarbella.com "
 description = "actividades marbella tours, rutas y excursiones en Marbella, Málaga y alrededores"
 email = "actividades.marbella@gmail.com"
