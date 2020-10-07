@@ -1,14 +1,18 @@
 ---
 title: Buggies Tour Marbella
-date: 2019-05-14T14:46:10.000+06:00
-description: 'Buggie Tour Estepona Marbella '
+date: '2019-05-14T14:46:10.000+06:00'
+description: Buggie Tour por Estepona Marbella, ruta por los montes y arroyos, turismo
+  de aventura
 type: featured
 image: "/images/buggie-tour-marbella.jpg"
 categories:
-- Valuable Idea
+- Rutas
 tags:
-- Photos
-- Finance
+- buggy
+- tour
+- ruta
+- marbella
+- estepona
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
