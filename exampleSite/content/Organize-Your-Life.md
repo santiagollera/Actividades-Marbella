@@ -54,4 +54,4 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.
 
-![](/images/boton-reservar-actividades.png)
+[![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Reservar actividad")
