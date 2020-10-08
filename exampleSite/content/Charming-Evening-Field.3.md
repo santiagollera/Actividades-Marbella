@@ -1,55 +1,28 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-4.jpg"
-categories: 
-  - "Food"
+title: Excursión a Ronda
+date: '2019-05-14T14:46:10.000+06:00'
+description: 'Excursión a Ronda, Málaga. Degustación de vino y '
+type: post
+image: "/images/actividades-marbella-excursion-ronda.jpg"
+categories:
+- Excursiones
 tags:
-  - "Photos"
-  - "Food"
+- Photos
+- Food
+
 ---
+Excursión en microbús al pueblo en el norte de Marbella, Ronda, catalogado como uno de los pueblos más bonitos de España y del mundo, de la mano de un guía oficial que le llevará a los rincones más interesantes y antiguos de la ciudad. Incluyendo el Museo con artículos de la inquisición, tradicionales andaluces y taurinos.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Además visitaremos un antiguo Monasterio con unas vistas espectaculares transformado en una bodega de vinos local con cultivo propio. Dentro de las instalaciones históricas disfrutaremos de una copa de vino de lo cocecha y una pequeña tapa para acompañar.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+> Duración: 6hs aprox
+>
+> Precio: 40€ pp
+>
+> Incluye: Cata de vinos, una tapa, entrada al museo de Ronda y Bodega antiguo Monasterios los Descalzos Viejos
 
+![](/images/actividades-excursion-a-ronda.jpg)
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+\*Esta actividad requiere un mínimo de 4 personas para realizarse la exursión. Debido a esto la disponibilidad puede verse afectada en ciertas fechas del año
 
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+Reserva ya tu plaza para no quedarte sin ella
