@@ -1,11 +1,12 @@
 ---
 title: Alquiler de coches de lujo
 date: '2019-05-14T14:46:10.000+06:00'
-description: This is meta description
+description: Alquiler de vehículos de lujo, Ferrari, Lamborghini, Mercedes, actividades
+  turísticas en Marbella y alrededores
 type: post
 image: "/images/actividades-marbella-alquiler-coches-de-lujo.jpg"
 categories:
-- Food
+- Alquiler
 tags:
 - Photos
 - Food
