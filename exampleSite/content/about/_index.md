@@ -7,7 +7,7 @@ image: images/author.jpg
 ---
 Santiago Llera García y Melina Tagliamento Fernández, jóvenes apasionados de las actividades turísticas, prefesionales del sector y amantes de la naturaleza y la historia. Ambos compartimos la pasión por la Costa del Sol y decidimos emprender en uno de los momentos más difíciles del turismo español pero sacó lo mejor de nosotros y nos lanzamos a crear esta iniciativa.
 
-ActividadesMarbella.com no es más que lo que conocemos muy bien, nos gusta tanto y lo que nos gustaría compartir con todos, las mejores actividades de Marbella y alrededores.
+ActividadesMarbella.com no es más que lo que conocemos muy bien, nos gusta tanto y lo que nos gustaría compartir con todos, una selección calidad precio de las mejores actividades de Marbella y alrededores.
 
 Santiago Llera García  
 Grado en Turismo U.A.M.  
