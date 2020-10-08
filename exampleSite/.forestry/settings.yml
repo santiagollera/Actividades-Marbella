@@ -13,12 +13,12 @@ sections:
   - post
 - type: directory
   path: exampleSite/content/about
-  label: About
+  label: Acerca de
   create: none
   match: "*"
 - type: directory
   path: exampleSite/content/contact
-  label: Contact
+  label: Contacto
   create: none
   match: "*"
 - type: directory
