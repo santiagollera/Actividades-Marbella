@@ -5,7 +5,8 @@ description: Actividades en marbella de deportes acuáticos, Tracción con barco
   marbella. actividades para parejes y grupos.
 type: post
 image: "/images/actividades-marbella-deportes-acuaticos.jpg"
-categories: []
+categories:
+- Alquiler
 tags:
 - Photos
 - Food
