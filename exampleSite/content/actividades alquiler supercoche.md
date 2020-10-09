@@ -18,7 +18,10 @@ Disfruta de una experiencia 5 estrellas a bordo de una de las máquinas más pot
 >
 > \*Para alquilar un super coche se necesita una fianza desde 2000€ que se devuelven al retornar el vehículo.
 
-Coches disponibles para alquiler:  
+La disponibilidad de los vehículos exclusivos está siempre sujeta a la demanda por lo que se recomiento reserva con la mayor antelación posible. Aunque siempre se dispone de gamas alternativas.
+
+###### Coches disponibles para alquiler:
+
 Mercedes Benz GLC Coupe: 250€/día, 713€ (3 días)
 
 ![](/images/mercedes-glc.jpg)  
@@ -37,6 +40,10 @@ Audi R8 V10 plus Spyder: 900€/ día 2565€ (3 días)
 Lamborghini Huracan Coupe: 1350€/ día 3848€ (3 días)
 
 ![](/images/post-alquilar-supercoche-lujo-actividades-marbella.jpg)
+
+Ferrari 488 GTB: 1500€/ día
+
+![](/images/ferrari-488.jpg)
 
 El garaje se encuetra en la zona de Puerto Banús, Nueva Andalucía, recoge tu coche y sale a dar un paseo por la zona más lujosa y exclusiva de localidad a tan sólo 6km del centro de Marbella.
 
