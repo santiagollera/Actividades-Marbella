@@ -21,8 +21,12 @@ Además visitaremos un antiguo Monasterio con unas vistas espectaculares transfo
 >
 > Incluye: Cata de vinos, una tapa, entrada al museo de Ronda y Bodega antiguo Monasterios los Descalzos Viejos
 
+Los grupos son reducidos y mantenemos todas las medidas de distanciamiento y desinfección así como el uso en todo momento de las mascarillas para el personal y el resto de viajeros de la excursión.
+
 ![](/images/actividades-excursion-a-ronda.jpg)
 
 \*Esta actividad requiere un mínimo de 4 personas para realizarse la exursión. Debido a esto la disponibilidad puede verse afectada en ciertas fechas del año
 
 Reserva ya tu plaza para no quedarte sin ella
+
+![](/images/boton-reservar-actividades.png)
