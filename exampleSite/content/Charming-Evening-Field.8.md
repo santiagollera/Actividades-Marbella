@@ -2,7 +2,8 @@
 title: Ruta de Tapas por el centro histórico
 date: '2019-05-14T14:46:10.000+06:00'
 description: Tour de tapas por el centro histórico de Marbella. Actividades tuísticas
-  de las mejores y más valoradas, degustación de vinos y tapeo en ruta
+  de las mejores y más valoradas, degustación de vinos y tapeo en ruta. Tour a pie
+  de las mejores actividades en Marbella
 type: post
 image: "/images/actividades-marbella-tour-de-tapas.jpg"
 categories:
