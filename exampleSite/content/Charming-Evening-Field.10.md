@@ -5,7 +5,8 @@ description: Entradas al Bioparc de Fuengirola. Zoo diferente con animales únic
   en un recinto espectacular
 type: post
 image: "/images/actividades-marbella-bioparc.jpg"
-categories: []
+categories:
+- Excursiones
 tags:
 - Photos
 - Food
