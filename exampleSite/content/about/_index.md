@@ -5,7 +5,7 @@ description: 'Actividades Marbella: Acerca de nosotros'
 image: images/santiago-llera-garcia-y-melina-tagliamento-fernandez.jpg
 
 ---
-Santiago Llera García y Melina Tagliamento Fernández, jóvenes apasionados de las actividades turísticas, prefesionales del sector y amantes de la naturaleza y la historia. Ambos compartimos la pasión por la Costa del Sol y decidimos emprender en uno de los momentos más difíciles del turismo español pero sacó lo mejor de nosotros y nos lanzamos a crear esta iniciativa.
+Santiago Llera García y Melina Tagliamento Fernández, jóvenes apasionados de las actividades turísticas, prefesionales del sector y amantes de la naturaleza y la historia. Ambos compartimos el interés por la Costa del Sol y decidimos emprender creando este proyecto con la mayor dedicación.
 
 ActividadesMarbella.com no es más que lo que conocemos muy bien, nos gusta tanto y lo que nos gustaría compartir con todos, una selección de las mejores actividades de Marbella y alrededores.
 
