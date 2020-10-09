@@ -16,8 +16,28 @@ Disfruta de una experiencia 5 estrellas a bordo de una de las máquinas más pot
 
 > Precios oscilan dependiendo del Modelo de Vehículo
 >
-> \*Para alquilar un super coche se necesita una fianza de 3000€ que se devuelven al retornar el vehículo.
+> \*Para alquilar un super coche se necesita una fianza desde 2000€ que se devuelven al retornar el vehículo.
+
+Coches disponibles para alquiler:  
+Mercedes Benz GLC Coupe: 250€/día, 713€ (3 días)
+
+![](/images/mercedes-glc.jpg)  
+BMW i8: 400€/día, 1140€ ( 3 días)
+
+![](/images/bmw-i8.jpg)  
+Porsche 911 Carrera 4s:  550€/día, 1568€ (3 días)
+
+![](/images/porsche-911.jpg)  
+Ferrari California Portofino: 700€/ día
+
+![](/images/ferrari-california.jpg)  
+Audi R8 V10 plus Spyder: 900€/ día 2565€ (3 días)
+
+![](/images/audi-r8.jpg)  
+Lamborghini Huracan Coupe: 1350€/ día 3848€ (3 días)
 
 ![](/images/post-alquilar-supercoche-lujo-actividades-marbella.jpg)
 
-El garaje se encuetra en la zona de Puerto Banús, Nueva Andalucía, sede de la jetset y parte más lujos y exclusiva de localidad a tan sólo 6km del centro de Marbella.
+El garaje se encuetra en la zona de Puerto Banús, Nueva Andalucía, recoge tu coche y sale a dar un paseo por la zona más lujosa y exclusiva de localidad a tan sólo 6km del centro de Marbella.
+
+![](/images/boton-reservar-actividades.png)
