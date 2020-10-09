@@ -15,6 +15,15 @@ tags:
 ---
 Ruta en bicicleta por el centro histórico y el paseo marítimo de Marbella con un guía oficial
 
-![](/images/tour-en-bici-marbella.jpg)
+> Duración: 2hs aprox
+>
+> Recorrido 14km  
+> Precio: 35€ pp
+>
+> Incluye: Guía oficial, bicicleta, cascos
+
+![](/images/actividades-tour-bici.jpg)
 
 De las actividades más recomendadas y completas de la ciudad
+
+![](/images/boton-reservar-actividades.png)
