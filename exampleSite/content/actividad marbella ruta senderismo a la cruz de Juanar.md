@@ -12,11 +12,19 @@ tags:
 - marbella
 
 ---
-Ruta de nivel Moderado
+Ruta de nivel Moderado tradicional y más recomendada para senderistas en Marbella. Este hermoso recorrido se realiza desde hace más de 300 años aunque antiguamente tenía 3 días de duración. Se trata de una leyenda local sobre unos marineros que en el siglo XVIII prometieron subir hasta el pico una cruz hecha con el mástil de su barco si lograban salvarse de la fuerte tormenta en la que se vieron a punto de irse a pique.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-> aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+> Ruta de nivel Moderado
+>
+> Distancia: 7,43km
+>
+> Subida: 363m
+>
+> Altura: 1141m
+>
+> Duración: 60min subida, 3hs en total
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
 ![](/images/actividades-senderismo-marbella-cruz-juanar.jpg)
 
