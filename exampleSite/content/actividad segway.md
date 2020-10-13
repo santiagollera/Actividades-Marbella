@@ -13,17 +13,23 @@ tags:
 - tours
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+La actividad del Tour en segway, son los vehículos eléctricos más divertidos que se hayan inventado, el Ferrari de los patinetes, sin duda una experiencia única con la que conocerás toda la milla de oro marbellí así como el paseo marítimo y puerto Banús, en total unos 15 km de recorrido y diversión asegurada.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-> dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+Actividad ideal para grupos pero también en pareja o con amigos ya que el segway nos brinda la posibilidad de conocer muchas cosas en poco tiempo y la ruta se hace muy amena y de las más recomendadas cosas que hacer en Marbella
 
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+> **Precios:**
+>
+> Alquiler 60min: 15€  
+> Ruta de 2hs: 45€
+>
+> **Incluye:** Cascos, guía y seguro
+>
+> \*Salidas desde Puerto Banús
+
+Los monitores son muy profesionales y garantizamos la seguridad de todos los participantes así como explicaciones y pinceladas de historia y curiosidades de los monumentos que se van visitando durante la ruta.
 
 ![](/images/actividades-marbella-segway-tour.jpg)
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Las reservas para la actividad del segway están disponibles todo el año mediante reserva anticipada.
 
 ![](/images/boton-reservar-actividades.png)
