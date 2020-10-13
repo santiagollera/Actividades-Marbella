@@ -25,7 +25,7 @@ Para alquilarlas por libre también es posible, simplemente se debe dejar una fi
 >
 > 30min: 110€
 >
-> Tour 60min: 150€
+> Alquiler 60min: 150€
 
 Si nunca has montado una moto de agua o no tienes el carnet no te preocupes, el personal te dará las instrucciones y los conocimientos necesarios para que puedas realizar la actividad por tu cuenta, eso sí dentro del circuito preparado para esto
 
