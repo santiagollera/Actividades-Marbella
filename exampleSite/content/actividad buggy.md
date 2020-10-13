@@ -17,12 +17,10 @@ tags:
 ---
 ##### La Ruta en Buggy
 
-Una de las actividades más populares en Marbella es perderse por el campo y entre los montes hacer esta hermosa y divertida ruta en buggy. Los vehículos 4x4 te darán desde luego una experiencia inolvidable sobre ruedas así como conocer la increíble belleza que se encuentra en los montes de los alrededores. 
+Una de las actividades más populares en Marbella es perderse por el campo y entre los montes hacer esta hermosa y divertida ruta en buggy. Los vehículos 4x4 te darán desde luego una experiencia inolvidable sobre ruedas así como conocer la increíble belleza que se encuentra en los montes de los alrededores.
 
-Se visitará durante el recorrido un mirador para poder realizar fotografías y pasaremos por cuestas, arroyos y todo tipo de aventuras para disfrutar al máximo de una conducción divertida a bordo del genial buggy de 550CC
+Se visitará durante el recorrido un mirador para poder realizar fotografías, tomar un refrigerio y pasaremos por cuestas, arroyos y todo tipo de aventuras para disfrutar al máximo de una conducción divertida a bordo del genial buggy de 550CC.
 
-> 
->
 > Tiempo: 2hs  
 > Precio: 120€ por buggy (2 personas por vehículo máx)
 >
