@@ -12,7 +12,11 @@ tags:
 - marbella
 
 ---
-Ruta de nivel Moderado tradicional y más recomendada para senderistas en Marbella. Este hermoso recorrido se realiza desde hace más de 300 años aunque antiguamente tenía 3 días de duración. Se trata de una leyenda local sobre unos marineros que en el siglo XVIII prometieron subir hasta el pico una cruz hecha con el mástil de su barco si lograban salvarse de la fuerte tormenta en la que se vieron a punto de irse a pique.
+Ruta de nivel Moderado tradicional y más recomendada para senderistas en Marbella. Este hermoso recorrido se realiza desde hace más de 300 años aunque antiguamente tenía 3 días de duración. Se trata de una leyenda local sobre unos marineros que en el siglo XVIII prometieron subir hasta el pico, una cruz hecha con el mástil de su barco si lograban salvarse de la fuerte tormenta en la que se vieron a punto de irse a pique.
+
+A día de hoy la actividad en Marbella se ha convertido en prácticamente de obligación para los "marbelleros" turistas recurrentes en este destino, al menos una vez se debe subir a la cuesta para contemplar las vistas increíbles desde más de mil metros sobre el nivel del mar.
+
+No es de alta dificultad ya que la ruta comienza desde el Refugio de Juanar que se encuetra a tan sólo una hora del pico y unos 780m de altura por lo que sólo se deben subir unos 300m por el lado norte que la pendiente es mucho más llevadera entre un pinar con una vegetación generosa.
 
 > Ruta de nivel Moderado
 >
@@ -24,19 +28,12 @@ Ruta de nivel Moderado tradicional y más recomendada para senderistas en Marbel
 >
 > Duración: 60min subida, 3hs en total
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Al llegar arriba descansaremos unos 30min para merendar o tomar un refrigerio, contemplar las vistas y por supuestos hacernos todas las fotos y vídeos que queramos para las redes sociales :)
 
 ![](/images/actividades-senderismo-marbella-cruz-juanar.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Esta actividad es de las más bonitas y mejor valoradas de Marbella y estamos disponibles todo el año para realizar excursiones desde el hotel o directamente desde el Refugio de Juanar.
+
+No te lo pienses y vente con nosotros a conocerlo, te garantizamos que no te arrepentirás :)
 
 ![](/images/boton-reservar-actividades.png)
