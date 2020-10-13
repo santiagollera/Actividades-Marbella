@@ -57,7 +57,8 @@ Potencia: 115CV
 
 Año: 2012  
 Eslora: 7,92m  
-Potencia: 300 CV
+Potencia: 300 CV  
+WC: si
 
 ![](/images/alquiler-barco-marbella-sea-ray.jpg)
 
