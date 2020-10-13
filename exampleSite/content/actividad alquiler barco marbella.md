@@ -17,22 +17,20 @@ Date un paseo a tu aire o vente a un recorrido acuático con un patrón que cond
 
 **Jeanneau Cap Camarat 555 DC**
 
+Año: 2010  
+Eslora: 5,22m  
+Potencia: 115CV
+
 ![](/images/cap-camarat-alquiler-barco.jpg)
 
-> Año: 2010  
-> Eslora: 5,22m  
-> Potencia: 115CV
->
 > **Precio alquiler con patrón:**  
 > 1h 130€  
-> 2h: 240€
->
+> 2h: 240€  
 > 4h: 400€
 >
 > **Precio sin patrón:**  
 > 2h: 200€  
-> 4h: 300€
->
+> 4h: 300€  
 > Fianza: 400€
 
 ![](/images/alquiler-barco-marbella.jpg)
