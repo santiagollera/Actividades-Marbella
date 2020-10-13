@@ -17,7 +17,7 @@ Date un paseo a tu aire o vente a un recorrido acuático con un patrón que cond
 
 El alquiler de las emabarcaciones y las rutas charter con patrón están sujetas a las condiciones climáticas para que sea posible la navegación.
 
-**Jeanneau Cap Camarat 555 DC** 
+**Jeanneau Cap Camarat 555 DC**
 
 Año: 2010  
 Eslora: 5,22m  
@@ -38,7 +38,7 @@ Potencia: 115CV
 **Bayliner 180 XL Element**
 
 Año 2016  
-Eslora: 5,49m   
+Eslora: 5,49m  
 Potencia: 115CV
 
 ![](/images/alquiler-bayliner-180.jpg)
@@ -76,5 +76,7 @@ WC: si
 
 El amarre de las embarcaciones se encuentra en el Puerto Deportivo de Marbella.  
 \*Si no dispone de una licencia de navegación, es posible obtenerla en sólo 4 horas con el curso intensivo de licencia náutica por sólo 150€.
+
+Haga click aquí para realizar una reserva de barco o licencia náutica
 
 [![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/share#/ "Reservar")
