@@ -35,4 +35,18 @@ Discotecas recomendadas:
 >
 > Copas: Alrededor de los 15€
 
+**Olivia Valere**
+
 ![](/images/mejores-discotecas-marbella.jpg)
+
+**Aqwa Mist**
+
+![](/images/aqwa-mist-actividades-marbella.jpg)
+
+**Pangea**
+
+![](/images/pangea-actividades-marbella.jpg)
+
+**Opium**
+
+![](/images/opium-actividades-marbella.jpg)
