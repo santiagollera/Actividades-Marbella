@@ -14,7 +14,7 @@ tags:
 ---
 Disfruta de una experiencia 5 estrellas a bordo de una de las máquinas más potentes y hermosas que ha creado la humanidad. Alquila un supercoche desde 250€ al día en marcas como Ferrari, Lamborghini, Porsche, BMW o Mercedes AMG.
 
-Siéntete como un verdadero VIP por un día, una experiencia inolvidable que hará de tus vacaciones las mejores que hayas tenido jamás. 
+Siéntete como un verdadero VIP por un día, una experiencia inolvidable que hará de tus vacaciones las mejores que hayas tenido jamás.
 
 El alquiler de supercoches está sujeto a una limitación desplazamiento por kilometraje entre 150 y 200km diarios dependiendo la marca y modelo, el recorrido adicional se puede pagar también como un extra.
 
@@ -53,4 +53,4 @@ El garaje se encuetra en la zona de Puerto Banús, Nueva Andalucía, recoge tu c
 
 Haga click aquí para más información y reservas
 
-[![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/share#/ "Reservar")
+[![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Reservar")
