@@ -51,4 +51,6 @@ Ferrari 488 GTB: 1500€/ día
 
 El garaje se encuetra en la zona de Puerto Banús, Nueva Andalucía, recoge tu coche y sale a dar un paseo por la zona más lujosa y exclusiva de localidad a tan sólo 6km del centro de Marbella.
 
+Haga click aquí para más información y reservas
+
 [![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/share#/ "Reservar")
