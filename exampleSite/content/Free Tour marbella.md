@@ -15,7 +15,7 @@ tags:
 - actividades
 
 ---
-La mejor y más divertida visita del centro histórico de Marbella con anécdotas que seguro te sacarán una sonrisa. Conoceremos cómo se convirtió Marbella en un pueblo de 10mil habitantes y en su mayoría pescadores en uno de los destinos más exclusivos y famosos de todo el mundo.
+La mejor y más divertida visita del centro histórico de Marbella con anécdotas que seguro te sacarán una sonrisa. Conoceremos cómo se convirtió Marbella, un pueblo de 10mil habitantes y en su mayoría pescadores en uno de los destinos más exclusivos y famosos de todo el mundo.
 
 Es un viaje en el tiempo que narraremos leyendas desde los tiempos de los romanos y costumbres religiosas con imágenes empotradas en las paredes de la muralla, hasta las idas y venidas de los famosos y turistas del Siglo XX a nuestros días.
 
