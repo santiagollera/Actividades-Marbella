@@ -15,6 +15,8 @@ El alquiler de barcos es una de las actividades más populares en Marbella, el t
 
 Date un paseo a tu aire o vente a un recorrido acuático con un patrón que conduzca la embarcación. Todos los barcos están equipados de música y bebidas para garantizar la diversión en el agua.
 
+El alquiler de las emabrcaciones y las rutas charter con patrón están sujetas a las condiciones climáticas para que sea posible la navegación.
+
 **Jeanneau Cap Camarat 555 DC**
 
 Año: 2010  
