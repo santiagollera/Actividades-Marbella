@@ -27,6 +27,8 @@ No es de alta dificultad ya que la ruta comienza desde el Refugio de Juanar que 
 > Altura: 1141m
 >
 > Duración: 60min subida-3hs en total
+>
+> Precio: 18€ pp transp. no inc. 28€pp c/transp.
 
 Al llegar arriba descansaremos unos 30min para merendar o tomar un refrigerio, contemplar las vistas y por supuestos hacernos todas las fotos y vídeos que queramos para las redes sociales :)
 
