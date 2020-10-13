@@ -15,7 +15,9 @@ tags:
 ---
 La actividad del Tour en segway, son los vehículos eléctricos más divertidos que se hayan inventado, el Ferrari de los patinetes, sin duda una experiencia única con la que conocerás toda la milla de oro marbellí así como el paseo marítimo y puerto Banús, en total unos 15 km de recorrido y diversión asegurada.
 
-Actividad ideal para grupos pero también en pareja o con amigos ya que el segway nos brinda la posibilidad de conocer muchas cosas en poco tiempo y la ruta se hace muy amena y de las más recomendadas cosas que hacer en Marbella
+Actividad ideal para grupos pero también en pareja o con amigos ya que el segway nos brinda la posibilidad de conocer muchas cosas en poco tiempo y la ruta se hace muy amena y de las más recomendadas cosas que hacer en Marbella.
+
+**Durante el recorrido se visitará:** el puente romano, la villa de Río Verde, La Milla de Oro, el embarcadero, El Marbella Club Hotel, la casa de la Duquesa de Alba, el paseo marítimo de Marbella y mucho más.
 
 > **Precios:**
 >
