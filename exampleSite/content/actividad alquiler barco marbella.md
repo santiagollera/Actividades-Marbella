@@ -15,9 +15,9 @@ El alquiler de barcos es una de las actividades más populares en Marbella, el t
 
 Date un paseo a tu aire o vente a un recorrido acuático con un patrón que conduzca la embarcación. Todos los barcos están equipados de música y bebidas para garantizar la diversión en el agua.
 
-El alquiler de las emabrcaciones y las rutas charter con patrón están sujetas a las condiciones climáticas para que sea posible la navegación.
+El alquiler de las emabarcaciones y las rutas charter con patrón están sujetas a las condiciones climáticas para que sea posible la navegación.
 
-**Jeanneau Cap Camarat 555 DC**
+**Jeanneau Cap Camarat 555 DC** 
 
 Año: 2010  
 Eslora: 5,22m  
@@ -25,15 +25,33 @@ Potencia: 115CV
 
 ![](/images/cap-camarat-alquiler-barco.jpg)
 
-> **Precio alquiler con patrón:**  
+> **Precio alquiler con patrón (5personas):**  
 > 1h 130€  
 > 2h: 240€  
 > 4h: 400€
 >
-> **Precio sin patrón:**  
+> **Precio sin patrón (6personas):**  
 > 2h: 200€  
 > 4h: 300€  
-> Fianza: 400€
+> Fianza: 400€ y lic. de Navegación
+
+**Bayliner 180 XL Element**
+
+Año 2016  
+Eslora: 5,49m   
+Potencia: 115CV
+
+![](/images/alquiler-bayliner-180.jpg)
+
+> **Precio alquiler con patrón (7 personas):**  
+> 1h 140€  
+> 2h: 250€  
+> 4h: 420€
+>
+> **Precio sin patrón (8 personas):**  
+> 2h: 200€  
+> 4h: 300€  
+> Fianza: 400€ y lic. de Navegación
 
 ![](/images/alquiler-barco-marbella.jpg)
 
