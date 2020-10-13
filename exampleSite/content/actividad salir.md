@@ -18,21 +18,21 @@ Entre los mejores Clubes  de España y del mundo, con carteleras a la par de los
 
 Discotecas recomendadas:
 
-> **Olivia Valere:**  
+> **Olivia Valere:  
+> **Es la interpretación del glamour y el lujo en Marbella. Ofrece un emplazamiento único, con un patio al aire libre inspirando en la Alhambra y la Mezquita  
 > Entrada 50€ y las copas están a 20/25€, y las botellas rondan los 300€.
 >
-> **Opium Beach Club:**  
+> **Opium Beach Club:  
+> **Es un local muy conocido en Marbella, muy concurrido por los famosos del panorama nacional e internacional y la mejor fiesta de piscina de la ciudad.  
 > Entradas: 20€, copas y cócteles 12€ botellas, 300€
+>
+> **Pangea:**  
+> Este club disfruta de vistas panorámicas al mar Mediterráneo y al estrecho de Gibraltar.   
+> Copas: Alrededor de los 15€
+>
+> **Aqwa Mist:  
+> **Este club cuenta con actuaciones eventuales de artistas internacionales de mucho renomber como Chris Brown o Ne-Yo. Tiene un aforo de unas 600 personas.
+>
+> Copas: Alrededor de los 15€
 
 ![](/images/mejores-discotecas-marbella.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
