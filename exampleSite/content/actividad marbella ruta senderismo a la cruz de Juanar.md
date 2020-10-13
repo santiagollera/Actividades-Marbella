@@ -18,7 +18,7 @@ A día de hoy la actividad en Marbella se ha convertido en prácticamente de obl
 
 No es de alta dificultad ya que la ruta comienza desde el Refugio de Juanar que se encuetra a tan sólo una hora del pico y unos 780m de altura por lo que sólo se deben subir unos 300m por el lado norte que la pendiente es mucho más llevadera entre un pinar con una vegetación generosa.
 
-> Ruta de nivel Moderado
+> **Ruta de nivel Moderado**
 >
 > Distancia: 7,43km
 >
@@ -26,9 +26,9 @@ No es de alta dificultad ya que la ruta comienza desde el Refugio de Juanar que 
 >
 > Altura: 1141m
 >
-> Duración: 60min subida-3hs en total
+> **Duración**: 60min subida-3hs en total
 >
-> Precio: 18€ pp transp. no inc. 28€pp c/transp.
+> **Precio:** 18€ pp transp. no inc. 28€pp c/transp.
 
 Al llegar arriba descansaremos unos 30min para merendar o tomar un refrigerio, contemplar las vistas y por supuestos hacernos todas las fotos y vídeos que queramos para las redes sociales :)
 
