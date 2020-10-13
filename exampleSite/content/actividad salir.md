@@ -18,20 +18,20 @@ Entre los mejores Clubes  de España y del mundo, con carteleras a la par de los
 
 Discotecas recomendadas:
 
-> **Olivia Valere:  
-> **Es la interpretación del glamour y el lujo en Marbella. Ofrece un emplazamiento único, con un patio al aire libre inspirando en la Alhambra y la Mezquita  
+> **Olivia Valere:**  
+> Es la interpretación del glamour y el lujo en Marbella. Ofrece un emplazamiento único, con un patio al aire libre inspirando en la Alhambra y la Mezquita  
 > Entrada 50€ y las copas están a 20/25€, y las botellas rondan los 300€.
 >
-> **Opium Beach Club:  
-> **Es un local muy conocido en Marbella, muy concurrido por los famosos del panorama nacional e internacional y la mejor fiesta de piscina de la ciudad.  
+> **Opium Beach Club:**  
+> Es un local muy conocido en Marbella, muy concurrido por los famosos del panorama nacional e internacional y la mejor fiesta de piscina de la ciudad.  
 > Entradas: 20€, copas y cócteles 12€ botellas, 300€
 >
 > **Pangea:**  
-> Este club disfruta de vistas panorámicas al mar Mediterráneo y al estrecho de Gibraltar.   
+> Este club disfruta de vistas panorámicas al mar Mediterráneo y al estrecho de Gibraltar.  
 > Copas: Alrededor de los 15€
 >
-> **Aqwa Mist:  
-> **Este club cuenta con actuaciones eventuales de artistas internacionales de mucho renomber como Chris Brown o Ne-Yo. Tiene un aforo de unas 600 personas.
+> **Aqwa Mist:**  
+> Este club cuenta con actuaciones eventuales de artistas internacionales de mucho renomber como Chris Brown o Ne-Yo. Tiene un aforo de unas 600 personas.
 >
 > Copas: Alrededor de los 15€
 
