@@ -53,8 +53,24 @@ Potencia: 115CV
 > 4h: 300€  
 > Fianza: 400€ y lic. de Navegación
 
-![](/images/alquiler-barco-marbella.jpg)
+**Sea Ray 260 Sundeck**
 
-\*El alquiler sin patrón no incluye el gasto de combustible
+Año: 2012  
+Eslora: 7,92m  
+Potencia: 300 CV
+
+![](/images/alquiler-barco-marbella-sea-ray.jpg)
+
+> **Precio alquiler con patrón (7 personas):**  
+> 1h 190€  
+> 2h: 330€  
+> 4h: 550€
+>
+> **Precio sin patrón (8 personas):**  
+> 2h: 250€  
+> 4h: 400€  
+> Fianza: 500€ y lic. de Navegación
+
+![](/images/alquiler-barco-marbella.jpg)
 
 ![](/images/boton-reservar-actividades.png)
