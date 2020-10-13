@@ -34,7 +34,9 @@ Los personajes más claves y significativos que hoy dan nombre a las calles de l
 > **Precio:** Gratis, se aceptan propinas  
 > **Duración:** 90min
 
-El centro histórico de Marbella es pequeño pero muy vistoso, con sus típicas bugambillas 
+El centro histórico de Marbella es pequeño pero muy vistoso, con sus típicas bugambillas y sus fachadas blancas con macetas azules no te podrán resistir a sacar alguna que otra foto. Por sus calles serpenteantes y muy estrechas, típicas de las antiguias medinas árabes encontrarás rincones mágicos cargados de historia de esa Marbella más secreta, antigua y desconocida.
+
+Reserva hoy tu recorrido a pie por Marbella o contacta con nosotros si tienes cualquier pregunta o disponibilidad horaria para tours privados
 
 ![](/images/actividades-marbella-free-tour.jpg)
 
