@@ -75,6 +75,6 @@ WC: si
 ![](/images/alquiler-barco-marbella.jpg)
 
 El amarre de las embarcaciones se encuentra en el Puerto Deportivo de Marbella.  
-\*Si no dispone de una licencia de navegación, es posible obtenerla en sólo 4 horas con el curso de licencia náutica por sólo 150€ en el mismo día.
+\*Si no dispone de una licencia de navegación, es posible obtenerla en sólo 4 horas con el curso intensivo de licencia náutica por sólo 150€.
 
 [![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/share#/ "Reservar")
