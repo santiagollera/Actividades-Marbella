@@ -22,7 +22,7 @@ Una de las actividades más populares en Marbella es perderse por el campo y ent
 Se visitará durante el recorrido un mirador para poder realizar fotografías, tomar un refrigerio y pasaremos por cuestas, arroyos y todo tipo de aventuras para disfrutar al máximo de una conducción divertida a bordo del genial buggy de 550CC.
 
 > Tiempo: 2hs  
-> Precio: 120€ por buggy (2 personas por vehículo máx)
+> Precio: 55€ por persona (2 personas por vehículo)
 >
 > Edad mínima: 18 años
 >
