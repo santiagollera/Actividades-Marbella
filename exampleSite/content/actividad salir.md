@@ -53,5 +53,5 @@ Discotecas recomendadas:
 
 Para contactar con los RRPP de las diferentes discotecas de Marbella, haz click aquí
 
-  
-![](/images/boton-reservar-actividades.png)
+[  
+![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Contacto")
