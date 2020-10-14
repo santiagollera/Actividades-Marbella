@@ -16,6 +16,8 @@ Las actividades acuáticas se realizan mediante el remolque por una lancha o emb
 
 La seguridad es muy importante y no importa que no sepas nadar ya que llevarán siempre un chaleco salvavidas y en caso de caer al agua la embarcación volverá a por ti por supuesto :)
 
+Serán siempre 15 min de máxima emoción en el que intentarás a toda costa mantenerte encima y no caer al agua mientras acelera a todo marcha el bote que tenemos en frente.
+
 > Donut 2-3 personas: 15min 20€
 >
 > Ski acuático 1 persona: 15min 40€  
