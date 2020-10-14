@@ -79,4 +79,4 @@ El amarre de las embarcaciones se encuentra en el Puerto Deportivo de Marbella.
 
 Haga click aquí para realizar una reserva de barco o licencia de navegación.
 
-[![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/share#/ "Reservar")
+[![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Reservar")
