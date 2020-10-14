@@ -33,4 +33,4 @@ Si nunca has montado una moto de agua o no tienes el carnet no te preocupes, el 
 
 Reserva hoy tu moto de agua, esta actividad está disponible en Marbella los 365 días del año
 
-[![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/share#/ "Reservar")
+[![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Reservar")
