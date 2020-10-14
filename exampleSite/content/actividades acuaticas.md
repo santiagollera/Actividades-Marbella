@@ -18,8 +18,7 @@ La seguridad es muy importante y no importa que no sepas nadar ya que llevarán 
 
 Serán siempre 15 min de máxima emoción en el que intentarás a toda costa mantenerte encima y no caer al agua mientras acelera a todo marcha el bote que tenemos en frente.
 
-> Donut 2-3 personas: 15min 20€
->
+> Donut 2-3 personas: 15min 20€  
 > Ski acuático 1 persona: 15min 40€  
 > Banana: 3-8 personas: 15min 15€  
 > Kneeboard 1 persona: 15min 40€  
