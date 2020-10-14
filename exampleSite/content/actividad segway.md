@@ -34,4 +34,4 @@ Los monitores son muy profesionales y garantizamos la seguridad de todos los par
 
 Las reservas para la actividad del segway están disponibles todo el año mediante reserva anticipada.
 
-[![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/create "contacto")
+[![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Reservar")
