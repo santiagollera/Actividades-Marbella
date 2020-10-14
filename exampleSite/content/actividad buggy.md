@@ -30,7 +30,7 @@ Se visitará durante el recorrido un mirador para poder realizar fotografías, t
 
 Lo más importate es la seguridad, por lo que los monitores están preparados para desarrollar una actividad sin incidentes a la par que divertida. El 90% del recurrido se realiza fuera de carretera (offroad) por lo que es necesario traer ropas en la que estés dispuesto a mancharte :)
 
-Los grupos son reducidos de un máximo de 5 vehículos para garantizar el disfruto de todos los participantes
+Los grupos son reducidos de un máximo de 5 vehículos con dos personas cada uno (total 10 pax) para garantizar el disfrute de todos los participantes.
 
 ![](/images/actividad-buggy-marbella.jpg)
 
