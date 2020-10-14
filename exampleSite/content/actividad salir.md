@@ -50,3 +50,8 @@ Discotecas recomendadas:
 **Opium**
 
 ![](/images/opium-actividades-marbella.jpg)
+
+Para contactar con los RRPP de las diferentes discotecas de Marbella, haz click aquí
+
+  
+![](/images/boton-reservar-actividades.png)
