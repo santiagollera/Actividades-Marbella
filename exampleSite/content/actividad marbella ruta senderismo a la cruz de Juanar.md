@@ -38,4 +38,4 @@ Esta actividad es de las más bonitas y mejor valoradas de Marbella y estamos di
 
 No te lo pienses y vente con nosotros a conocerlo, te garantizamos que no te arrepentirás :)
 
-[![](/images/boton-reservar-actividades.png)](https://admin.typeform.com/form/nNnLC1YL/create "contacto")
+[![](/images/boton-reservar-actividades.png)](https://actividadesmarbella.typeform.com/to/nNnLC1YL "Reservar")
