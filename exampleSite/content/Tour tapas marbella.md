@@ -15,9 +15,9 @@ tags:
 ---
 La actividad del tour de tapas por el centro histórico de Marbella es un recorrido hecho a medida siguiendo las recomendaciones de uno de los más grandes de la cocina española y local marbellí de pura cepa Dani García.
 
-Se trata de degustar platos españoles tradicionales en sitios secretos y muy especiales por su historia y su sabor que aseguro te sorprenderán :)
+Se trata de degustar platos españoles tradicionales en sitios secretos y muy especiales por su historia y su sabor que aseguro te sorprenderán.
 
-Se visitarán en total 4 locales con una cocina especialemente seleccionada por su sabor pero también por la historia y la vinculación con la localidad que acarrean.
+Se visitarán en total 4 locales con una cocina especialemente seleccionada por su sabor pero también por la historia de este negocio y la vinculación con la localidad que acarrean. Las tapas son además de sabrosas, generosas así que te irás comido y con las calorías suficientes, garantizado :)
 
 > **Precio**: 68€
 >
