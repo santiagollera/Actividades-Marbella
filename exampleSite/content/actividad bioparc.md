@@ -12,40 +12,27 @@ tags:
 - Food
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Con más de 200 especies Bioparc Fuengirola es uno de los más avanzados de los zoo de nuevo tipo de Europa y pionero en nuestro país. El nuevo concepto se trata de recrear el hábitat natural de cada especie para darle una vida lo más similar posible a la que tendría fuera de cautiverio y favorecer su desarrollo en todos los niveles.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Visitar el parque es como viajar hacia la isla de Madagascar, con sus típicas plantas y animales, a la África ecuatorial, al Sudeste asiático o a las islas del Indo-Pacífico. Todo el parque está diseñado para que hagamos una inmersión total en el paisaje y el hábitat de cada especie.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-> aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Este nuevo tipo de Zoo que ha roto con el concepto de barrote y hormigón ha cambiado para siempre la vida de los animales, sobre todo de los queridos chimpancés que por primera vez comenzaron a comportarse como lo que son y pueden recoger plantas, esconderse unos de otros, correr y caminar sobre hierba.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+> **Precio Entradas:**  
+> Adultos: 21,10€  
+> Niños (3-9 años): 16,10€  
+> Mayores de 65 años: 17,10€  
+> Menores de 3 años: Gratis
+
+**Algunas de las especies y ejemplares más famososo son:**  
+La chimpancé Julieta  
+La pareja de tigres de Sumatra Asmara y Harau  
+El gorila Ecko  
+La pareja de leopardos Toñi y Tissa  
+Ora la hembra dragón de Komodo
+
+No te pierdas esta experiencia única en este parque tan peculiar que seguro no olvidarás.
 
 ![](/images/actividades-marbella-bioparc-fuengirola-especies.jpg)
 
-Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-![](/images/boton-reservar-actividades.png)
+[![](/images/boton-reservar-actividades.png)]()
