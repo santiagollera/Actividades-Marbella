@@ -12,7 +12,7 @@ tags:
 - Food
 
 ---
-De las actividades que más impacto han tenido siempre en la prensa nacional e internacional han sido siempre las fiestas marbellís. Desde los años 70 en que Julio Iglesias cantó para la inaguración de Puerto Banús a Marbella no han parado de venir personalidades atrayendo y dando a la localidad ese ambiente tan especial que le caracteriza.
+De las actividades que más impacto han tenido siempre en la prensa nacional e internacional han sido las fiestas marbellís. Desde los años 70 en que Julio Iglesias cantó para la inaguración de Puerto Banús a Marbella no han parado de venir personalidades atrayendo y dando a la localidad ese ambiente tan especial que le caracteriza.
 
 Entre los mejores Clubes  de España y del mundo, con carteleras a la par de los mejores festivales de Ibiza se encuetran en su mayoría en la zona de Nueva Andalucía. Artistas como Paris Hilton que ha venido en varias ocasiones a pinchar en directo, Juan Magán, Ozuna y Sebastián Yatra del género reguetón.
 
