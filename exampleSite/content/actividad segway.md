@@ -22,7 +22,8 @@ Actividad ideal para grupos pero también en pareja o con amigos ya que el segwa
 > **Precios:**
 >
 > Alquiler 60min: 15€  
-> Ruta de 2hs: 45€
+> Ruta de 2hs: 45€   
+> Ruta de 3hs: 55€
 >
 > **Incluye:** Cascos, guía y seguro
 >
