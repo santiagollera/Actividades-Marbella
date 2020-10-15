@@ -1,5 +1,5 @@
 ---
-title: Deportes acuáticos
+title: Actividades acuáticas
 date: '2019-05-14T14:46:10.000+06:00'
 description: Actividades en marbella de deportes acuáticos, Tracción con barco, diversión
   marbella. actividades para parejes y grupos.
