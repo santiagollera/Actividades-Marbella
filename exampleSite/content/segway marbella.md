@@ -24,7 +24,7 @@ Primeramente el guía dará una explicación sobre el uso de los segways y medid
 > **Precios:**
 >
 > Alquiler 60min: 15€  
-> Ruta de 2hs: 45€   
+> Ruta de 2hs: 39€  
 > Ruta de 3hs: 55€
 >
 > **Incluye:** Cascos, guía y seguro
