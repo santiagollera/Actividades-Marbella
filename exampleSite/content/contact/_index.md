@@ -3,6 +3,9 @@ title: Contacto
 date: 
 description: Contacto ActividadesMarbella.com
 image: images/contact2.jpg
+menu:
+  main:
+    weight: 1
 
 ---
 ### Estaremos encantados de responderle en menos de 30 min :)

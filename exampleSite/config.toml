@@ -10,18 +10,14 @@ parent = "Actividades"
 url = "https://www.actividadesmarbella.com/categories/rutas/"
 weight = 3
 [[menu.main]]
-name = "Alquiler"
-parent = "Actividades"
-url = "https://www.actividadesmarbella.com/categories/alquiler"
-weight = 1
-[[menu.main]]
 name = "Excursiones"
 parent = "Actividades"
 url = "https://www.actividadesmarbella.com/categories/excursiones"
 weight = 2
 [[menu.main]]
-name = "Contacto"
-url = "https://actividadesmarbella.typeform.com/to/nNnLC1YL"
+name = "Alquiler"
+parent = "Actividades"
+url = "https://www.actividadesmarbella.com/categories/alquiler"
 weight = 1
 [[menu.main]]
 has-children = true
