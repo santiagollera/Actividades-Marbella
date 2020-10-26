@@ -9,6 +9,7 @@ categories:
 tags:
 - alquiler
 - barco
+draft: true
 
 ---
 El alquiler de barcos es una de las actividades más populares en Marbella, el turismo náutico en España encuentra su cumbre en la joya de la Costa del Sol. Alquila una embarcación con o sin licencia en las diferentes categorías náuticas y embarcaciones.
