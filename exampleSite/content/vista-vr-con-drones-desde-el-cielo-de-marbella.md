@@ -4,7 +4,7 @@ date = "2019-05-14T14:46:10.000+06:00"
 description = "Experiencia con Drones en Marbella"
 image = "/images/drones-marbella.png"
 tags = ["Senderismo", "rutas", "marbella"]
-title = "Vista VR con Drones desde el cielo de Marbella"
+title = "Experiencia VR con Drones desde el cielo de Marbella"
 type = "post"
 
 +++
