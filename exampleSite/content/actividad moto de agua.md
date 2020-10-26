@@ -10,6 +10,7 @@ tags:
 - alquiler
 - tours
 - motos de agua
+draft: true
 
 ---
 Las motos de agua son de las más populares actividades acuáticas en Marbella, tanto para alquilarla por tu cuenta, un tour o en un circuito cerrado, los potentes motores de propulsión nos brindan una experiencia única y muy divertida para disfrutar en pareja o con amigos.
