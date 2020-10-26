@@ -1,11 +1,11 @@
 +++
 categories = ["Rutas"]
 date = "2019-05-14T14:46:10.000+06:00"
-description = "Ruta Senderismo a la Cruz de Juanar, refugio de montaña y vistas espectaculares"
+description = "Experiencia con Drones en Marbella"
 image = "/images/drones-marbella.png"
 tags = ["Senderismo", "rutas", "marbella"]
 title = "Vista VR con Drones desde el cielo de Marbella"
-type = "featured"
+type = "post"
 
 +++
 La experiencia con drones consiste primeramente en aprender los controles básicos mediante una clase teórica y explicación general de la aeronave. Luego practicamos con los motores apagados y el monitor mueve con sus manos el dron dependiendo donde el usuario gire los controles para que entienda el funcionamiento del mismo.
