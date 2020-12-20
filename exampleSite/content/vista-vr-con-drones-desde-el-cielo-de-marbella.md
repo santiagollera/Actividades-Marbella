@@ -5,7 +5,7 @@ description = "Experiencia con Drones en Marbella"
 image = "/images/drones-marbella.png"
 tags = ["Senderismo", "rutas", "marbella"]
 title = "Experiencia VR con Drones desde el cielo de Marbella"
-type = "post"
+type = "featured"
 
 +++
 La experiencia con drones consiste primeramente en aprender los controles básicos mediante una clase teórica y explicación general de la aeronave. Luego practicamos con los motores apagados y el monitor mueve con sus manos el dron dependiendo donde el usuario gire los controles para que entienda el funcionamiento del mismo.
