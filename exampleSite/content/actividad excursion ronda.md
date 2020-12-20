@@ -9,6 +9,7 @@ categories:
 tags:
 - Photos
 - Food
+draft: true
 
 ---
 Excursión en microbús al pueblo en el norte de Marbella, Ronda, catalogado como uno de los pueblos más bonitos de España y del mundo, de la mano de un guía oficial que le llevará a los rincones más interesantes y antiguos de la ciudad. Incluyendo el Museo con artículos de la inquisición, tradicionales andaluces y taurinos.
