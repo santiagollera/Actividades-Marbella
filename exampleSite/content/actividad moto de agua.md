@@ -2,7 +2,7 @@
 title: Motos de agua
 date: '2019-05-14T14:46:10.000+06:00'
 description: alquiler motos de agua y tours
-type: featured
+type: post
 image: "/images/motos-de-agua.jpg"
 categories:
 - Alquiler
