@@ -10,7 +10,6 @@ categories:
 tags:
 - Photos
 - Food
-draft: true
 
 ---
 Con más de 200 especies Bioparc Fuengirola es uno de los más avanzados de los zoo de nuevo tipo de Europa y pionero en nuestro país. El nuevo concepto se trata de recrear el hábitat natural de cada especie para darle una vida lo más similar posible a la que tendría fuera de cautiverio y favorecer su desarrollo en todos los niveles.
