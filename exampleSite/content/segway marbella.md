@@ -11,7 +11,6 @@ tags:
 - segway
 - actividades
 - tours
-draft: true
 
 ---
 La actividad del Tour en segway, son los vehículos eléctricos más divertidos que se hayan inventado, el Ferrari de los patinetes, sin duda una experiencia única con la que conocerás toda la milla de oro marbellí así como el paseo marítimo y puerto Banús, en total unos 15 km de recorrido y diversión asegurada.
