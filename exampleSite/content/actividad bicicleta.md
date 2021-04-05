@@ -11,7 +11,6 @@ tags:
 - tours
 - rutas
 - marbella
-draft: true
 
 ---
 La actividad de ruta en bicicleta por el centro histórico y el paseo marítimo es una de las obligadas para los visitantes de Marbella. La Milla de Oro como mejor se aprecia es por toda la costa y esta sólo es posible hacerla a pie o si no quieres perder todo el día agarra una bici y vente con nosotros :)
