@@ -10,7 +10,6 @@ categories:
 tags:
 - Photos
 - Food
-draft: true
 
 ---
 Las actividades acuáticas se realizan mediante el remolque por una lancha o embarcación de más potencia de motor. Son de las cosas más divertidas que hacer en familia o con amigos y se recomienda para los más aventureros y amantes de la adrenalina.
