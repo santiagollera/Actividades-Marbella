@@ -26,30 +26,28 @@ La disponibilidad de los vehículos exclusivos está siempre sujeta a la demanda
 
 ###### Coches disponibles para alquiler:
 
+![](/images/mercedes-glc.jpg)  
 Mercedes Benz GLC Coupe: 250€/día, 713€ (3 días)
 
-![](/images/mercedes-glc.jpg)  
+![](/images/bmw-i8.jpg)  
 BMW i8: 400€/día, 1140€ ( 3 días)
 
-![](/images/bmw-i8.jpg)  
+![](/images/whatsapp-image-2022-03-15-at-17-18-43.jpeg)  
 Porsche 911 Carrera 4s:  550€/día, 1568€ (3 días)
 
-![](/images/whatsapp-image-2022-03-15-at-17-18-43.jpeg)  
+![](/images/ferrari-california.jpg)  
 Ferrari California Portofino: 700€/ día
 
-![](/images/ferrari-california.jpg)  
+![](/images/audi-r8.jpg)  
 Audi R8 V10 plus Spyder: 900€/ día 2565€ (3 días)
 
-![](/images/audi-r8.jpg)  
+![](/images/post-alquilar-supercoche-lujo-actividades-marbella.jpg)  
 Lamborghini Huracan Coupe: 1350€/ día 3848€ (3 días)
 
-![](/images/post-alquilar-supercoche-lujo-actividades-marbella.jpg)
-
+![](/images/ferrari-488.jpg)  
 Ferrari 488 GTB: 1500€/ día
 
-![](/images/ferrari-488.jpg)
-
-El garaje se encuetra en la zona de Puerto Banús, Nueva Andalucía, recoge tu coche y sale a dar un paseo por la zona más lujosa y exclusiva de localidad a tan sólo 6km del centro de Marbella.
+El garaje se encuetra en la zona de La Quinta, Nueva Andalucía, recoge tu coche y sale a dar un paseo por la zona más lujosa y exclusiva de localidad a tan sólo unos kms del centro de Marbella.
 
 Haga click aquí para más información y reservas
 
