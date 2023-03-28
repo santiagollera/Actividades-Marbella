@@ -1,23 +1,23 @@
-baseurl = "https://actividadesmarbella.netlyfy.app"
+baseurl = "https://www.marbellatopactivities.com"
 languageCode = "es-ES"
 paginate = "9"
 summaryLength = "20"
 theme = "parsa-hugo"
-title = "Actividades Marbella"
+title = "Marbella Top Activities"
 [[menu.main]]
 name = "Rutas"
 parent = "Actividades"
-url = "https://www.actividadesmarbella.com/categories/rutas/"
+url = "https://www.marbellatopactivities.com/categories/rutas/"
 weight = 3
 [[menu.main]]
 name = "Excursiones"
 parent = "Actividades"
-url = "https://www.actividadesmarbella.com/categories/excursiones"
+url = "https://www.marbellatopactivities.com/categories/excursiones"
 weight = 2
 [[menu.main]]
 name = "Alquiler"
 parent = "Actividades"
-url = "https://www.actividadesmarbella.com/categories/alquiler"
+url = "https://www.marbellatopactivities.com/categories/alquiler"
 weight = 1
 [[menu.main]]
 has-children = true
@@ -34,18 +34,18 @@ home = ["HTML", "RSS", "JSON"]
 author_image = "images/motos-de-agua-actividades-marbella.jpg"
 bio = "Las mejores actividades turísticas en Marbella y alrededores. Actividades acuáticas, tours de ciudad y montañas"
 contact_form_action = ""
-copyright = "Copyright &copy; 2022 ActividadesMarbella.com "
+copyright = "Copyright &copy; Marbella Top Activities 2023 "
 description = "Actividades en Marbella y alrededores, rutas, excursiones y alquileres en la perla de la Costa del Sol. Qué hacer en Marbella de actividades turísticas y las mejores cosas divertidas que podrás encontrar"
-email = "actividades.marbella@gmail.com"
+email = "marbellatopactivities@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo-peque2.png"
-mobile = "+34604100862"
+logo = "images/marbella_activities_Logo.png"
+mobile = "+34626283644"
 preloader = false
 search = false
 social = []
-web = "www.actividadesmarbella.com"
+web = "www.marbellatopactivities.com"
 [params.cookies]
 enable = true
 expire_days = 2
