@@ -139,12 +139,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #ff8c33;
+  background: #000D8B;
   color: #fff;
 }
 
 ::selection {
-  background: #ff8c33;
+  background: #000D8B;
   color: #fff;
 }
 
@@ -264,10 +264,10 @@ select:focus {
 }
 
 a:hover {
-  color: #ff6f00;
+  color: #000D8B;
 }
 a.text-dark:hover {
-  color: #ff6f00 !important;
+  color: #000D8B !important;
 }
 
 .slick-slide {
@@ -330,15 +330,15 @@ a.text-dark:hover {
 }
 
 .bg-primary {
-  background: #ff6f00 !important;
+  background: #000D8B !important;
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #000D8B !important;
 }
 
 .text-primary {
-  color: #ff6f00 !important;
+  color: #000D8B !important;
 }
 
 .text-color {
@@ -410,7 +410,7 @@ a.text-dark:hover {
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #ff6f00;
+  border-color: #000D8B;
 }
 
 textarea.form-control {
@@ -662,7 +662,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  background-image: linear-gradient(#fff 45%, #000D8B 0);
 }
 
 .dividers {
