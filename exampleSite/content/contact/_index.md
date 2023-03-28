@@ -1,8 +1,8 @@
 ---
 title: Contacto
 date: 
-description: Contacto ActividadesMarbella.com
-image: images/contact2.jpg
+description: Contacta con nosotros
+image: images/marbellatopactivitieslogo.png
 menu:
   main:
     weight: 1
@@ -15,5 +15,3 @@ Nuestro horario de atención al cliente es de lunes a domingo de 10AM a 10PM:
 Teléfono con whatsapp y llamadas: **+34663010971**
 
 Email: **actividadesmarbella@gmail.com**
-
-![](/images/logo-peque2.png)
