@@ -98,13 +98,13 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #ff6f00;
+  background: #000D8B;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #ff6f00 !important;
+  background: #000D8B !important;
 }
 
 .btn-primary:hover {
