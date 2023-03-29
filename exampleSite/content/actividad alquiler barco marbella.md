@@ -5,6 +5,7 @@ description: Alquiler de barco con y sin licencia. Actividades acuáticas en Mar
 type: featured
 image: "/images/alquiler-barco-marbella-actividades.jpg"
 categories:
+- Excursiones
 - Alquiler
 tags:
 - alquiler
