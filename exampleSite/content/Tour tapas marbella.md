@@ -28,4 +28,4 @@ Se visitarán en total 4 locales con una cocina especialemente seleccionada por 
 
 La ruta se realiza a pie y estaremos unos 45min en cada local aproximadamente y las calorías consumidas serán de alrededor de 1000 entre los aperitivos y las bebidas teniendo en cuenta los gustos y preferencias de cada consumidor
 
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "Reservar")
+![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")
