@@ -40,4 +40,4 @@ El centro histórico de Marbella es pequeño pero muy vistoso, con sus típicas 
 
 Reserva hoy tu recorrido a pie por Marbella o contacta con nosotros si tienes cualquier pregunta o disponibilidad horaria para tours privados
 
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "reservar free tour")
+[![](/images/reserve.png)](https://www.marbellatopactivities.com/contact/ "Reserve")
