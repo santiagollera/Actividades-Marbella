@@ -13,7 +13,7 @@ tags:
 - Food
 
 ---
-Una actividad al aire libre, divertida, refrescante y diferente, lo mejor para disfrutar de un verano diferente con toda la familia. Seguridad garantizada gracias a los monitores y la buena calidad de las atracciones.
+Una actividad al aire libre, divertida, refrescante y diferente, lo mejor para disfrutar de un verano diferente con toda la familia, seguridad garantizada gracias a los monitores y la buena calidad de las atracciones.
 
 > Duración: 1h aprox.
 >
