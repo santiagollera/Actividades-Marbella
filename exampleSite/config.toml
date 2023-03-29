@@ -1,5 +1,5 @@
 baseurl = "https://www.marbellatopactivities.com"
-languageCode = "es-ES"
+languageCode = "es"
 paginate = "9"
 summaryLength = "20"
 theme = "parsa-hugo"
