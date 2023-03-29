@@ -35,6 +35,4 @@ Los monitores son muy profesionales y garantizamos la seguridad de todos los par
 
 ![](/images/actividades-marbella-segway-tour.jpg)
 
-Las reservas para la actividad del segway están disponibles todo el año mediante reserva anticipada.
-
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "Reservar")
+![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")
