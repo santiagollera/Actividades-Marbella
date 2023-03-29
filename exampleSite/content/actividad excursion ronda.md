@@ -29,4 +29,4 @@ Los grupos son reducidos y mantenemos todas las medidas de distanciamiento y des
 
 Reserva ya tu plaza para no quedarte sin ella
 
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "Reservar")
+[![](/images/reserve.png)](https://www.marbellatopactivities.com/contact/ "Reserve")
