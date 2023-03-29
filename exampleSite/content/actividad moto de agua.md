@@ -5,6 +5,7 @@ description: alquiler motos de agua y tours
 type: featured
 image: "/images/motos-de-agua.jpg"
 categories:
+- Excursiones
 - Alquiler
 tags:
 - alquiler
