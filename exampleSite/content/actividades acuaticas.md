@@ -35,5 +35,3 @@ Serán siempre 15 min de máxima emoción en el que intentarás a toda costa man
 **Banana**
 
 ![](/images/actividades-acuaticas-marbella-banana.jpg)
-
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "Reservar")
