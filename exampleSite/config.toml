@@ -5,6 +5,11 @@ summaryLength = "20"
 theme = "parsa-hugo"
 title = "Marbella Top Activities"
 [[menu.main]]
+name = "English"
+parent = ""
+url = "https://www-marbellatopactivities-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp"
+weight = ""
+[[menu.main]]
 name = "Rutas"
 parent = "Actividades"
 url = "https://www.marbellatopactivities.com/categories/rutas/"
