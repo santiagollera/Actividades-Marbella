@@ -5,6 +5,7 @@ description: Ruta Senderismo a la Cruz de Juanar, refugio de montaña y vistas e
 type: post
 image: "/images/actividades-marbella-senderismo-cruz-de-juanar-montanismo.jpg"
 categories:
+- Excursiones
 - Rutas
 tags:
 - Senderismo
