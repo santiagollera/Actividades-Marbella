@@ -2,7 +2,7 @@
 title: Segway Marbella
 date: '2019-05-14T14:46:10.000+06:00'
 description: Segway Tour Marbella, actividades al aire libre, rutas por la ciudad
-type: featured
+type: post
 image: "/images/segway-tour-marbella.jpg"
 categories:
 - Rutas
