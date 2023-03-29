@@ -1,7 +1,8 @@
 ---
 title: Parque acuático inflable
 date: '2019-05-14T14:46:10.000+06:00'
-description: 15€ 1HORA 35€ TODO EL DIA
+description: Una actividad al aire libre, divertida, refrescante y diferente. Lo mejor
+  para disfrutar de un verano diferente.
 type: post
 image: "/images/waterpark-1.jpg"
 categories:
@@ -12,7 +13,7 @@ tags:
 - Food
 
 ---
-Una actividad al aire libre, divertida, refrescante y diferente. Lo mejor para disfrutar de un verano diferente.
+Una actividad al aire libre, divertida, refrescante y diferente. Lo mejor para disfrutar de un verano diferente con toda la familia. Seguridad garantizada gracias a los monitores y la buena calidad de las atracciones.
 
 > Duración: 1h aprox
 >
