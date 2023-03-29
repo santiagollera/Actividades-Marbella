@@ -1,5 +1,5 @@
 ---
-title: Alquiler de barco en Marbella
+title: Experiencia en Barco
 date: '2019-05-14T14:46:10.000+06:00'
 description: Alquiler de barco con y sin licencia. Actividades acuáticas en Marbella
 type: featured
@@ -11,11 +11,22 @@ tags:
 - barco
 
 ---
-El alquiler de barcos es una de las actividades más populares en Marbella, el turismo náutico en España encuentra su cumbre en la joya de la Costa del Sol. Alquila una embarcación con o sin licencia en las diferentes categorías náuticas y embarcaciones.
+Los barcos son una de las actividades más populares en Marbella, el turismo náutico en España encuentra su cumbre en la joya de la Costa del Sol. Alquila una embarcación o únete a un glamuroso paseo por la costa.
 
-Date un paseo a tu aire o vente a un recorrido acuático con un patrón que conduzca la embarcación. Todos los barcos están equipados de música y bebidas para garantizar la diversión en el agua.
+**EXPERIENCIA PUERTO BANUS: DURACION 2 HORAS**
 
-El alquiler de las emabarcaciones y las rutas charter con patrón están sujetas a las condiciones climáticas para que sea posible la navegación.
+\-Lancha Quicksilver: (con monitor)
+
+Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posibilidad de visitar nuestras otras instalaciones en el puerto. Charla informativa y como siempre en cada ruta, información medioambiental, e historias de la zona e info sobre animales que merodean en la zona, casa de personajes e historia de Marbella.
+
+> 
+>
+> DURACION 2 HORAS  
+> **Precio:** 150€
+
+\-EXPERIENCIA PAREJAS: Atardecer con fresas y pequeña botella de cava.
+
+EXPERIENCIA SOL Y AGUA: Salida por las inmediaciones para grupos de máximo 4 personas en silver y posibilidad de haber extra con otro monitor y mas motos.
 
 **Jeanneau Cap Camarat 555 DC**
 
@@ -73,6 +84,8 @@ WC: si
 > Fianza: 500€ y lic. de Navegación
 
 ![](/images/alquiler-barco-marbella.jpg)
+
+EXPERIENCIA PERSONALIZADA: Nuestro equipo experimentado y su idea es la mejor combinación posible para disfrutar de la costa del sol. Comuníquenos su idea y la haremos realidad.
 
 El amarre de las embarcaciones se encuentra en el Puerto Deportivo de Marbella.  
 \*Si no dispone de una licencia de navegación, es posible obtenerla en sólo 4 horas con el curso intensivo por sólo 150€.
