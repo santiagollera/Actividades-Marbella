@@ -16,7 +16,9 @@ tags:
 
 Las motos de agua son de las más populares actividades acuáticas en Marbella, tanto para alquilarla por tu cuenta, un tour o en un circuito cerrado, los potentes motores de propulsión nos brindan una experiencia única y muy divertida para disfrutar en pareja o con amigos.
 
-MOTOS DE AGUA: Iniciamos con el transporte en lancha quicksilver a Banus desde Marbella con el monitor. El máximo número de integrantes por grupo para las excursiones será de 4. El alquiler de las motos es fuera de circuito para clientes con licencia de navegación.
+Iniciamos con el transporte en lancha quicksilver a Banus desde Marbella con el monitor. El máximo número de integrantes por grupo para las excursiones será de 4. El alquiler de las motos es fuera de circuito para clientes con licencia de navegación.
+
+Tenemos la opción de rutas y excursiones como alquiler individual de la moto de agua desde nuestras instalaciones en el Puerto Deportivo de Marbella y en el Varadero de Puerto Banús, Marbella.
 
 **EXPERIENCIA ATARDECER:**  
 Salir, y ver atardecer mientras se va a Banus y vuelta.
