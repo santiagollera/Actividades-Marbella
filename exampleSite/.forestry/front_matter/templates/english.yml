@@ -1,0 +1,126 @@
+---
+label: English
+hide_body: true
+fields:
+- type: text
+  name: baseurl
+  label: baseurl
+- type: text
+  name: languageCode
+  label: languageCode
+- type: text
+  name: paginate
+  label: paginate
+- type: text
+  name: summaryLength
+  label: summaryLength
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: menu
+  label: menu
+  fields:
+  - type: field_group_list
+    name: main
+    label: main
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: parent
+      label: parent
+    - type: text
+      name: url
+      label: url
+    - type: number
+      name: weight
+      label: weight
+- type: field_group
+  name: outputs
+  label: outputs
+  fields:
+  - type: list
+    name: home
+    label: home
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: file
+    name: author_image
+    label: author_image
+  - type: textarea
+    name: bio
+    label: bio
+  - type: text
+    name: contact_form_action
+    label: contact_form_action
+  - type: text
+    name: copyright
+    label: copyright
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: google_analitycs_id
+    label: google_analitycs_id
+  - type: text
+    name: home
+    label: home
+  - type: text
+    name: layout
+    label: layout
+  - type: file
+    name: logo
+    label: logo
+  - type: text
+    name: mobile
+    label: mobile
+  - type: boolean
+    name: preloader
+    label: preloader
+  - type: boolean
+    name: search
+    label: search
+  - type: list
+    name: social
+    label: social
+  - type: text
+    name: web
+    label: web
+  - type: field_group
+    name: cookies
+    label: cookies
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: number
+      name: expire_days
+      label: expire_days
+  - type: field_group
+    name: plugins
+    label: plugins
+    fields:
+    - type: field_group_list
+      name: css
+      label: css
+      fields:
+      - type: text
+        name: link
+        label: link
+    - type: field_group_list
+      name: js
+      label: js
+      fields:
+      - type: text
+        name: link
+        label: link
