@@ -36,4 +36,4 @@ Los grupos son reducidos de un máximo de 5 vehículos con dos personas cada uno
 
 No te lo pienses más!! Te aseguro que no te arrepentirás :)
 
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "Reservar actividad Buggy")
+![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")
