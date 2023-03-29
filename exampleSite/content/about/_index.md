@@ -2,7 +2,7 @@
 title: Acerca de nosotros
 date: 2019-05-14T14:46:10.000+06:00
 description: 'Marbella Top Activities: Acerca de nosotros'
-image: "/images/20210318_155435.jpg"
+image: "/images/imagen-prinicpal.jpg"
 
 ---
 Marbella Jet Center se creó en 2005 y gracias a la confianza que depositan en nosotros clientes de todo el mundo, desde entonces estamos a la vanguardia del sector de las motos de agua y para luego expandirnos a otras actividades bajo el nombre Marbella Top Activities.
@@ -16,3 +16,5 @@ Nuestros servicios de alquiler están sujetos a la posesión de una licencia de 
 Te invitamos a que vengas a conocernos y disfrutes de una experiencia emocionante e inolvidable.
 
 El equipo de Marbella Top Activities
+
+![](/images/marbellatopactivitieslocal.jpg)
