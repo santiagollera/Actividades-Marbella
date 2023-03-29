@@ -2,7 +2,7 @@
 title: Free Tour Marbella
 date: '2019-05-14T14:46:10.000+06:00'
 description: Actividad de ruta a pie por Marbella centro histórico. Free tour a propinas.
-type: featured
+type: post
 image: "/images/free-walking-tour-marbella.jpg"
 categories:
 - Rutas
