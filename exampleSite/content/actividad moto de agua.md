@@ -14,22 +14,44 @@ tags:
 ---
 Las motos de agua son de las más populares actividades acuáticas en Marbella, tanto para alquilarla por tu cuenta, un tour o en un circuito cerrado, los potentes motores de propulsión nos brindan una experiencia única y muy divertida para disfrutar en pareja o con amigos.
 
-Las motos pueden llevar hasta dos personas y son muy fáciles de conducir, aunque por supuesto el personal es muy profesional y desde la lancha estarán pendientes de que se cumplan las medidas de seguridad y sobre todo la distancia entre las embarcaciones.
+MOTOS DE AGUA: transporte en Silver a Banus desde Marbella con monitor. Grupos de 4.
 
-Para alquilarlas por libre también es posible, simplemente se debe dejar una fianza de 400€ y presentar la titulación de licencia náutica.
+\-EXPERIENCIA ATARDECER:  
+Salir, y ver atardecer mientras se va a Banus y vuelta.
 
-> Circuito cerrado frente al puerto deportivo de Marbella
+> DURACCION 2.5 HORAS
 >
-> **Precios:**  
-> 20min: 70€
->
-> 30min: 110€
->
-> Alquiler 60min: 150€
+> **Precio:**  
+> 150€
 
-Si nunca has montado una moto de agua o no tienes el carnet no te preocupes, el personal te dará las instrucciones y los conocimientos necesarios para que puedas realizar la actividad por tu cuenta, eso sí dentro del circuito preparado para esto
+\-EXPERIENCIA PUERTO BANUS:   
+Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posibilidad de visitar nuestras otras instalaciones en el puerto. Charla informativa y como siempre en cada ruta, información medioambiental, e historioas de la zona e info sobre animales que merodean en la zona, casa de personajes, historia de Marbella, etc.
+
+> DURACION 2 HORAS
+>
+> **Precio:**  
+> 120€
+
+\-EXPERIENCIA SOTOGRANDE:   
+Salida del puerto antes de las 13 horas para dar comienzo a la ruta dirección puerto Sotogrande. (extra monolito playa del cable) de camino hacia allí hacer alguna parada de reagrupación, descanso y relato de leyendas, historias o información respecto al lugar, zona y medio ambiente. Una vez llegado a Sotogrande haremos una parada y procederemos a la vuelta a nuestro puerto de Marbella.
+
+> DURACION 4.30 HORAS
+>
+> **Precio:**  
+> 250€
 
 ![](/images/alquiler-moto-de-agua.jpg)
+
+EXPERIENCIA ESTRECHO:   
+Además de estas, pregúntales a nuestros monitores, ellos sabrán recomendarles según sus necesidades.
+
+EXPERIENCIA DELFINES:  
+Ir en busca de ellos. Si no se encuentran no nos hacemos responsables de ello.
+
+EXPERIENCIA PERSONALIZADA:   
+Nuestro equipo experimentado y su idea es la mejor combinación posible para disfrutar de la costa del sol. Comuníquenos su idea y la haremos
+
+realidad.
 
 Reserva hoy tu moto de agua, esta actividad está disponible en Marbella los 365 días del año
 
