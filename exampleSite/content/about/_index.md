@@ -17,4 +17,4 @@ Te invitamos a que vengas a conocernos y disfrutes de una experiencia emocionant
 
 El equipo de Marbella Top Activities
 
-![](/images/marbellatopactivitieslocal.jpg)
+![](/images/imagen-prinicpal.jpg)
