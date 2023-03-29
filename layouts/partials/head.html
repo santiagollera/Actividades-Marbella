@@ -8,7 +8,16 @@
   <meta name="keywords" content="actividades marbella, turismo, que hacer en marbella, actividades turisticas, costa del sol, senderismo, buggy, tours, free tour, cruz de juanar, alquileres, tour en bici marbella, segway, barco, alquiler yate, actividades acuaticas">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8QVE9QNSS">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-P8QVE9QNSS');
+</script>
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }} ">
