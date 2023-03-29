@@ -6,6 +6,7 @@ description: Buggie Tour por Estepona Marbella, ruta por los montes y arroyos, t
 type: featured
 image: "/images/buggie-tour-marbella.jpg"
 categories:
+- Excursiones
 - Rutas
 tags:
 - buggy
