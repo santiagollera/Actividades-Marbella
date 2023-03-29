@@ -78,5 +78,3 @@ El amarre de las embarcaciones se encuentra en el Puerto Deportivo de Marbella.
 \*Si no dispone de una licencia de navegación, es posible obtenerla en sólo 4 horas con el curso intensivo por sólo 150€.
 
 Haga click aquí para realizar una reserva de barco o licencia de navegación.
-
-[![](/images/boton-reservar-actividades.png)](https://www.actividadesmarbella.com/contact/ "Reservar")
