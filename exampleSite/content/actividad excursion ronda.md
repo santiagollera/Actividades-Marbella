@@ -3,7 +3,7 @@ title: Parque acuático inflable
 date: '2019-05-14T14:46:10.000+06:00'
 description: 15€ 1HORA 35€ TODO EL DIA
 type: post
-image: "/images/waterpark.jpg"
+image: "/images/waterpark-1.jpg"
 categories:
 - Rutas
 - Alquiler
