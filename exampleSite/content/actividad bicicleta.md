@@ -43,4 +43,4 @@ Este recorrido es problablemente el más completo ya que veremos todos los princ
 
 De las actividades más recomendadas y completas, reserva ya un tour en bici o contacta con nosotros para reseponder todos tus preguntas aquí.
 
-![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")
+[![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")](https://www.marbellatopactivities.com/contact/ "Reserve")
