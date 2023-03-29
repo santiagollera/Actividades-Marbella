@@ -2,7 +2,7 @@
 title: Alquiler de barco en Marbella
 date: '2019-05-14T14:46:10.000+06:00'
 description: Alquiler de barco con y sin licencia. Actividades acuáticas en Marbella
-type: post
+type: featured
 image: "/images/alquiler-barco-marbella-actividades.jpg"
 categories:
 - Alquiler
