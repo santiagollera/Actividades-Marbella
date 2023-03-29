@@ -22,7 +22,7 @@ Salir, y ver atardecer mientras se va a Banus y vuelta.
 > DURACCION 2.5 HORAS
 >
 > **Precio:**  
-> 150€
+> 120€
 
 \-EXPERIENCIA PUERTO BANUS:  
 Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posibilidad de visitar nuestras otras instalaciones en el puerto. Charla informativa y como siempre en cada ruta, información medioambiental, e historioas de la zona e info sobre animales que merodean en la zona, casa de personajes, historia de Marbella, etc.
