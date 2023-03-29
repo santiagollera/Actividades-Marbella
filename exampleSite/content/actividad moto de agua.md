@@ -24,7 +24,7 @@ Salir, y ver atardecer mientras se va a Banus y vuelta.
 > **Precio:**  
 > 150€
 
-\-EXPERIENCIA PUERTO BANUS:   
+\-EXPERIENCIA PUERTO BANUS:  
 Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posibilidad de visitar nuestras otras instalaciones en el puerto. Charla informativa y como siempre en cada ruta, información medioambiental, e historioas de la zona e info sobre animales que merodean en la zona, casa de personajes, historia de Marbella, etc.
 
 > DURACION 2 HORAS
@@ -32,7 +32,7 @@ Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posib
 > **Precio:**  
 > 120€
 
-\-EXPERIENCIA SOTOGRANDE:   
+\-EXPERIENCIA SOTOGRANDE:  
 Salida del puerto antes de las 13 horas para dar comienzo a la ruta dirección puerto Sotogrande. (extra monolito playa del cable) de camino hacia allí hacer alguna parada de reagrupación, descanso y relato de leyendas, historias o información respecto al lugar, zona y medio ambiente. Una vez llegado a Sotogrande haremos una parada y procederemos a la vuelta a nuestro puerto de Marbella.
 
 > DURACION 4.30 HORAS
@@ -42,13 +42,13 @@ Salida del puerto antes de las 13 horas para dar comienzo a la ruta dirección p
 
 ![](/images/alquiler-moto-de-agua.jpg)
 
-EXPERIENCIA ESTRECHO:   
+EXPERIENCIA ESTRECHO:  
 Además de estas, pregúntales a nuestros monitores, ellos sabrán recomendarles según sus necesidades.
 
 EXPERIENCIA DELFINES:  
-Ir en busca de ellos. Si no se encuentran no nos hacemos responsables de ello.
+Nos ponemos en contacto con embarcaciones locales para localizar su ubicación y salir a su avistamiento.
 
-EXPERIENCIA PERSONALIZADA:   
+EXPERIENCIA PERSONALIZADA:  
 Nuestro equipo experimentado y su idea es la mejor combinación posible para disfrutar de la costa del sol. Comuníquenos su idea y la haremos
 
 realidad.
