@@ -15,7 +15,7 @@ tags:
 ---
 Una actividad al aire libre, divertida, refrescante y diferente. Lo mejor para disfrutar de un verano diferente con toda la familia. Seguridad garantizada gracias a los monitores y la buena calidad de las atracciones.
 
-> Duración: 1h aprox
+> Duración: 1h aprox.
 >
 > Precio: 15€ pp
 >
