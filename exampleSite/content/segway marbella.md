@@ -35,4 +35,4 @@ Los monitores son muy profesionales y garantizamos la seguridad de todos los par
 
 ![](/images/actividades-marbella-segway-tour.jpg)
 
-![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")
+[![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")](https://www.marbellatopactivities.com/contact/ "Reserve")
