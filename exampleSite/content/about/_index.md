@@ -5,7 +5,7 @@ description: 'Marbella Top Activities: Acerca de nosotros'
 image: "/images/imagen-prinicpal.jpg"
 
 ---
-Marbella Jet Center se creó en 2005 y gracias a la confianza que depositan en nosotros clientes de todo el mundo, desde entonces estamos a la vanguardia del sector de las motos de agua y para luego expandirnos a otras actividades bajo el nombre Marbella Top Activities.
+[Marbella Jet Center](https://marbellajetcenter.es/ "Marbella Jet Center") se creó en 2005 y gracias a la confianza que depositan en nosotros clientes de todo el mundo, desde entonces estamos a la vanguardia del sector de las motos de agua y para luego expandirnos a otras actividades bajo el nombre Marbella Top Activities.
 
 Disponemos de un magnífico servicio de parking de motos de agua en nuestro hangar náutico y a pie de agua, en el Puerto Deportivo de Marbella y Puerto Banús, pudiendo así disfrutar de tu moto de agua durante todo el año.
 
