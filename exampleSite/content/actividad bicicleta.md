@@ -1,9 +1,9 @@
 ---
-title: Ruta en Bicicleta
+title: Experiencia Sotogrande
 date: '2019-05-14T14:46:10.000+06:00'
-description: Ruta en bicicleta, actividades tours en Marbella
+description: Sotogrande Jetski Tour
 type: post
-image: "/images/tour-en-bici-marbella-actividades.jpg"
+image: "/images/marbellaactivitiessotogrande.jpg"
 categories:
 - Rutas
 tags:
@@ -13,34 +13,17 @@ tags:
 - marbella
 
 ---
-La actividad de ruta en bicicleta por el centro histórico y el paseo marítimo es una de las obligadas para los visitantes de Marbella, la Milla de Oro como mejor se aprecia es por toda la costa y esta sólo es posible hacerla a pie o si no quieres perder todo el día agarra una bici y vente con nosotros :)
+Salida del puerto antes de las 13 horas para dar comienzo a la ruta dirección puerto Sotogrande. (extra monolito playa del cable) de camino hacia allí hacer alguna parada de reagrupación, descanso y relato de leyendas, historias o información respecto al lugar, zona y medio ambiente. Una vez llegado a Sotogrande haremos una parada de habituallamiento y procederemos a la vuelta a nuestro puerto de Marbella.
 
-Conoceremos los monumentos principales del centro histórico:  
-\- Iglesia de la Encarnación  
-\- Calle Lobatas  
-\- Plaza de los Naranjos  
-\- Casa Consistorial  
-\- Muralla islámica
-
-Luego continuaremos la ruta por todo el paseo marítimo y veremos:  
-\- Avenida del Mar  
-\- El embarcadero  
-\- Marbella Club Hotel  
-\- Puente Romano  
-\- La Villa de Río Verde  
-\- Puerto Banús
-
-> **Duración:** 3hs aprox
+> **Duración:** 4,5 hs aprox.
 >
 > **Recorrido 14km**  
-> **Precio**: 35€ pp
+> **Precio**: 235€ pp
 >
 > Incluye: Guía oficial, bicicleta, cascos, bebidas
 
-Este recorrido es problablemente el más completo ya que veremos todos los principales monumentos y lugares históricos de la parte antigua y moderna de Marbella. Un paseo cronológico en el tiempo para conocer mejor la ciudad
-
 ![](/images/actividades-tour-bici.jpg)
 
-De las actividades más recomendadas y completas, reserva ya un tour en bici o contacta con nosotros para reseponder todos tus preguntas aquí.
+El recorrido más recomendado y completo de la Costa del Sol, reserva ya un tour o contacta con nosotros para responder todas tus preguntas aquí.
 
 [![https://www.marbellatopactivities.com/contact/](/images/reserve.png "Reserve")](https://www.marbellatopactivities.com/contact/ "Reserve")
