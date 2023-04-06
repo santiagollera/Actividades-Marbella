@@ -12,7 +12,7 @@ menu:
 
 Nuestro horario de atención al cliente es de lunes a domingo de 10AM a 10PM:
 
-Teléfono con whatsapp y llamadas: **+34 626 283 644**
+Teléfono con whatsapp y llamadas: **+34 627 20 39 23**
 
 Email: **marbellatopactivities@gmail.com**
 
