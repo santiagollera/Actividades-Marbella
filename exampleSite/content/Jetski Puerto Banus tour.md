@@ -8,8 +8,8 @@ categories:
 - Rutas
 tags:
 - marbella
-- segway
-- actividades
+- jetski
+- puerto banus
 - tours
 
 ---
@@ -17,7 +17,7 @@ Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posib
 
 **Durante el recorrido se visitará:** 
 
-> **Precio:** 90€  
+> **Precio:** 80€  
 > **Duración:** 2 hs
 
 Los monitores son muy profesionales y garantizamos la seguridad de todos los participantes así como explicaciones y pinceladas de historia y curiosidades de los monumentos que se van visitando durante la ruta.
