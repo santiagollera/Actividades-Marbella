@@ -8,7 +8,7 @@ categories:
 - Excursiones
 - Rutas
 tags:
-- Senderismo
+- jetski
 - rutas
 - marbella
 
@@ -25,7 +25,7 @@ Salir, y ver atardecer mientras se va a Banus y vuelta
 >
 > **Duración**: 120min 
 >
-> **Precio:** 170€ pp 
+> **Precio:** 140€ pp 
 
 Esta actividad es de las más bonitas y mejor valoradas de Marbella y estamos disponibles todo el año para realizar excursiones desde el Puerto Deportivo de Marbella o Puerto Banús.
 
