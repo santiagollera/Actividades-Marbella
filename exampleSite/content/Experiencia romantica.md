@@ -1,21 +1,23 @@
 ---
-title: Experiencia Romántica en barco
+title: Experiencia Romántica
 date: '2019-05-14T14:46:10.000+06:00'
-description: Romantic experience in a boat
+description: Romantic experience
 type: post
 image: "/images/romatic-boat-activities-marbella.jpg"
 categories:
 - Rutas
 tags:
 - Tour
-- ruta
-- a pie
-- walking
+- experiencia
+- romantica
+- romantic
 - marbella
 - actividades
 
 ---
 Atardecer con fresas y pequeña botella de cava.
+Nuestro equipo experimentado y su idea es la mejor combinación posible para disfrutar de la costa del sol.
+Tenemos una experiencia muy especial para ti, esta actividad está disponible en Marbella los 365 días del año.
 
 > **Duración:** 3hs
 >
