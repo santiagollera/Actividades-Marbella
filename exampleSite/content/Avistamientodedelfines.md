@@ -15,7 +15,7 @@ Ir en busca de ellos.
 
 > **Precio**: 90€
 >
-> **Duración**: 90 min horas aproximadamente
+> **Duración**: 90 min aproximadamente
 
 Nos ponemos en contacto con embarcaciones locales para localizar su ubicación y salir a su avistamiento.
 Pocas cosas se pueden comparar a la sensación de libertad que sentirás al ver jugar y nadar a los delfines en el mar. 
