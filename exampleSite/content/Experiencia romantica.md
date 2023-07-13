@@ -19,9 +19,11 @@ Atardecer con fresas y pequeña botella de cava.
 Nuestro equipo experimentado y su idea es la mejor combinación posible para disfrutar de la costa del sol.
 Tenemos una experiencia muy especial para ti, esta actividad está disponible en Marbella los 365 días del año.
 
+Muy especial e inolvidable. Es necesario reservar con mínimo de 48hs de antelación.
+
 > **Duración:** 3hs
 >
-> **Precio:** 120
+> **Precio:** 120€
 
 ![](/images/romatic-boat-activitie.jpg)
 
