@@ -20,7 +20,7 @@ Salida del puerto antes de las 13 horas para dar comienzo a la ruta dirección p
 > **Recorrido 14km**  
 > **Precio**: 235€ pp
 >
-> Incluye: Guía oficial, bicicleta, cascos, bebidas
+> Incluye: Guía oficial, jetski, bebidas
 
 ![](/images/actividades-tour-bici.jpg)
 
