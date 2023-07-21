@@ -13,8 +13,8 @@ tags:
 ---
 Ir en busca de ellos.
 
-> **Precio**: 90€
->
+> **Precio**: 90€ pp
+>**Vehículo**: moto de agua o barco
 > **Duración**: 90 min aproximadamente
 
 Nos ponemos en contacto con embarcaciones locales para localizar su ubicación y salir a su avistamiento.
