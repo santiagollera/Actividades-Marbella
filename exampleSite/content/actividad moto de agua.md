@@ -23,18 +23,18 @@ Tenemos la opción de rutas y excursiones como alquiler individual de la moto de
 **EXPERIENCIA ATARDECER:**  
 Salir, y ver atardecer mientras se va a Banus y vuelta.
 
-> DURACCION 2.5 HORAS
+> DURACCION 60 min
 >
 > **Precio:**  
-> 120€
+> 85€ pp
 
 **EXPERIENCIA PUERTO BANUS:**  
 Salida desde el puerto de Jose Banus, (extra monolito playa del cable) con posibilidad de visitar nuestras otras instalaciones en el puerto. Charla informativa y como siempre en cada ruta, información medioambiental, e historioas de la zona e info sobre animales que merodean en la zona, casa de personajes, historia de Marbella, etc.
 
-> DURACION 2 HORAS
+> DURACION 90 min
 >
 > **Precio:**  
-> 120€
+> 90€ pp
 
 **EXPERIENCIA SOTOGRANDE:**  
 Salida del puerto antes de las 13 horas para dar comienzo a la ruta dirección puerto Sotogrande. (extra monolito playa del cable) de camino hacia allí hacer alguna parada de reagrupación, descanso y relato de leyendas, historias o información respecto al lugar, zona y medio ambiente. Una vez llegado a Sotogrande haremos una parada y procederemos a la vuelta a nuestro puerto de Marbella.
