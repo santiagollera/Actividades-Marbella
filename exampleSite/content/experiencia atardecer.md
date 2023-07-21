@@ -13,19 +13,19 @@ tags:
 - marbella
 
 ---
-DURACION 2,5 hs
+DURACION 60 min
 
 Salir, y ver atardecer mientras se va a Banus y vuelta
 
-> **Ruta de nivel Moderado**
+> **Ruta de nivel fácil**
 >
-> Distancia: 15km
+> Distancia: 10km
 >
 > Vehículo: jetski
 >
-> **Duración**: 120min 
+> **Duración**: 60 min 
 >
-> **Precio:** 140€ pp 
+> **Precio:** 85€ pp 
 
 Esta actividad es de las más bonitas y mejor valoradas de Marbella y estamos disponibles todo el año para realizar excursiones desde el Puerto Deportivo de Marbella o Puerto Banús.
 
